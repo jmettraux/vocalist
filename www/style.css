@@ -26,18 +26,22 @@ body {
   height: 1000px;
   margin: 0 auto;
   text-align: center;
-  border: 1px solid white;
   /*
+  border: 1px solid white;
   */
 }
 #card .j {
-  margin-top: 2em;
+  margin-top: 1em;
+  padding: 1em;
+  padding-bottom: 0;
   font-size: 200%;
 }
 #card .r {
+  display: none;
   font-size: 80%;
 }
 #card .e {
+  display: none;
   margin-top: 1.4em;
 }
 
