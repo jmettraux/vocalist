@@ -17,12 +17,28 @@ table { border-collapse: collapse; border-spacing: 0; }
 body {
   background-color: black;
   color: white;
+  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+  font-size: 49px;
 }
-#content {
-  width: 300px;
+
+#card {
+  width: 640px;
+  height: 1000px;
   margin: 0 auto;
-  border: 1px solid white;
   text-align: center;
+  border: 1px solid white;
+  /*
+  */
+}
+#card .j {
+  margin-top: 2em;
+  font-size: 200%;
+}
+#card .r {
+  font-size: 80%;
+}
+#card .e {
+  margin-top: 1.4em;
 }
 
 #list {
