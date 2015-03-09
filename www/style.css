@@ -18,23 +18,24 @@ body {
   background-color: black;
   color: white;
   font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
-  font-size: 49px;
+  font-size: 77px;
 }
 
 #card {
   width: 640px;
-  height: 1000px;
+  height: 1200px;
   margin: 0 auto;
   text-align: center;
+  overflow: hidden;
   /*
   border: 1px solid white;
   */
 }
 #card .j {
   margin-top: 1em;
-  padding: 1em;
-  padding-bottom: 0;
+  width: 100%;
   font-size: 200%;
+  padding-top: 1em;
 }
 #card .r {
   display: none;
