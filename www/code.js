@@ -38,8 +38,9 @@ var Vl = (function() {
     card.appendChild(entry.cloneNode(true));
     card.setAttribute('data-vl-index', index);
 
-    document.querySelector('#card').addEventListener('click', Vl.goToNext);
+    document.querySelector('body').addEventListener('click', Vl.goToNext);
     document.querySelector('#card .j').addEventListener('click', Vl.showRuby);
+    document.querySelector('#card .r').addEventListener('click', Vl.showRuby);
   };
 
   this.ready = function() {
