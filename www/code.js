@@ -30,17 +30,19 @@ var Vl = (function() {
 
   this.displayEntry = function(index) {
 
-    var entry = document.querySelectorAll('#list > .entry')[index];
+    //var entry = document.querySelectorAll('#list > .entry')[index];
+    var entry = cards[index];
     if ( ! entry) { Vl.displayEntry(0); return; }
 
     var card = document.getElementById('card');
-    card.innerHTML = '';
-    card.appendChild(entry.cloneNode(true));
+    card.querySelector('.j').innerHTML = entry[0];
+    var r = card.querySelector('.r');
+    var e = card.querySelector('.e');
+    r.style.display = 'none';
+    e.style.display = 'none';
+    r.innerHTML = entry[1];
+    e.innerHTML = entry[2];
     card.setAttribute('data-vl-index', index);
-
-    document.querySelector('#next').addEventListener('click', Vl.goToNext);
-    document.querySelector('#card .j').addEventListener('click', Vl.showRuby);
-    document.querySelector('#card .r').addEventListener('click', Vl.showRuby);
   };
 
   this.ready = function() {
@@ -48,6 +50,10 @@ var Vl = (function() {
     var index = 0;
 
     Vl.displayEntry(index);
+
+    document.querySelector('#next').addEventListener('click', Vl.goToNext);
+    document.querySelector('#card .j').addEventListener('click', Vl.showRuby);
+    document.querySelector('#card .r').addEventListener('click', Vl.showRuby);
   };
 
   //
