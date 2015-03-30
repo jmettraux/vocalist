@@ -1,4 +1,4 @@
-保護者
+﻿保護者
 ほごしゃ
 gardian, protector, patron
 影響
@@ -13,8 +13,12 @@ to get angry/mad
 筆者
 ひっしゃ
 writer, author
-#のみならず
-#拝見させていただきます
+のみならず
+のみならず
+besides, as well
+拝見させていただきます
+はいけんさせていただきます
+let me look (?)
 #（いかる）
 #報告（ほうこく）
 #医療費（いりょうひ）
