@@ -8,6 +8,7 @@ deploy:
 d: deploy
 
 compile:
+	cp ~/shared/source.txt src/
 	ruby src/tojson.rb > www/content.js
 c: compile
 

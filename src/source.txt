@@ -18,31 +18,70 @@ writer, author
 besides, as well
 拝見させていただきます
 はいけんさせていただきます
-let me look (?)
-#（いかる）
-#報告（ほうこく）
-#医療費（いりょうひ）
-#費用（ひよう）
-#害する（がいする）
-#公害（こうがい）
-#害虫（がいちゅう）
-#検討（けんとう）
-#こうけつあつ
-#伴う（ともなう）
-#傾向（けいこう）
-#
-#神経（しんけい）
-#いりょうひ
-#治療（ちりょう）
-#得られる（えられる）
-#少年法
-#各　　　each
-#北極
-#減少（げんしょう）
-#傾向（けいこう）
-#築城（ちくじょう）
-#建築
-#たましい　　やまとだましい
+I will look
+報告
+ほうこく
+report, information
+医療費
+いりょうひ
+medical expenses, doctor's bill
+費用
+ひよう
+cost, expense
+害する
+がいする
+to injure, damage, hurt; to kill; to obstruct
+公害
+こうがい
+pollution, public nuisance, contamination
+害虫
+がいちゅう
+harmul/noxious insect
+検討
+けんとう
+consideration, examination, investigation
+高血圧
+こうけつあつ
+high blood pressure, hypertension
+伴う
+ともなう
+to accompany, to bring with, to be involved in
+傾向
+けいこう
+tendency, trend, inclination
+神経
+しんけい
+nerve, sensitivity
+治療
+ちりょう
+medical treatment, cure
+得る
+える
+to obtain, to get, to acquire, to procure
+少年法
+しょうねんほう
+juvenile law
+各
+かく
+each
+北極
+ほっきょく
+north pole, the Arctic
+減少
+げんしょう
+decrease, reduction, decline
+築城
+ちくじょう
+fortification, castle construction
+建築
+けんちく
+construction, architecture (buildings)
+魂
+たましい
+soul, spirit
+大和魂
+やまとだましい
+the Japanese Spirit
 #せっきょくてき
 #方針
 #自転車
