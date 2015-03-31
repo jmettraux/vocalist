@@ -31,22 +31,29 @@ body {
   font-size: 80%;
 }
 #list .entry {
-  padding: 2px 0;
+  padding: 7px 0;
   border-bottom: 1px solid white;
 }
 #list .j {
   display: inline-block;
-  width: 40%;
+  width: 50%;
+}
+#list .i {
+  display: inline-block;
+  font-size: 40%;
+  opacity: 0.3;
 }
 #list .r {
   display: inline-block;
-  font-size: 70%;
-  width: 59%;
+  font-size: 50%;
+  width: 49%;
 }
 #list .e {
   display: none;
+  /*
   font-size: 80%;
   padding-left: 1em;
+  */
 }
 
 #card {

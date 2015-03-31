@@ -5,16 +5,23 @@ var Vl = (function() {
 
   this.goToList = function(event) {
 
-    document.getElementById('list').style.display = "block";
+    document.getElementById('list').style.display = 'block';
+  };
+  this.goTo = function(event) {
+    document.getElementById('list').style.display = 'none';
+    var index = event.target.getAttribute('data-vl-index');
+    index = parseInt(index, 10);
+    Vl.displayEntry(index);
   };
 
-  var createElt = function(clazz, text) {
+  var createElt = function(clazz, text, atts) {
     var e = document.createElement('div');
     e.classList.add(clazz);
     if (text) {
       var t = document.createTextNode(text);
       e.appendChild(t);
     }
+    if (atts) for (var k in atts) e.setAttribute(k, atts[k]);
     return e;
   };
 
@@ -24,10 +31,13 @@ var Vl = (function() {
 
     cards.forEach(function(card, index) {
       var e = createElt('entry');
-      e.appendChild(createElt('j', card[0]));
+      var j = createElt('j', card[0], { 'data-vl-index': index });
+      j.appendChild(createElt('i', '' + index));
+      e.appendChild(j);
       e.appendChild(createElt('r', card[1]));
       e.appendChild(createElt('e', card[2]));
       list.appendChild(e);
+      j.addEventListener('click', Vl.goTo);
     });
   };
 
