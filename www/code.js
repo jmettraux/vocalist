@@ -3,6 +3,34 @@ var Vl = (function() {
 
   var self = this;
 
+  this.goToList = function(event) {
+
+    document.getElementById('list').style.display = "block";
+  };
+
+  var createElt = function(clazz, text) {
+    var e = document.createElement('div');
+    e.classList.add(clazz);
+    if (text) {
+      var t = document.createTextNode(text);
+      e.appendChild(t);
+    }
+    return e;
+  };
+
+  this.populateList = function() {
+
+    var list = document.getElementById('list');
+
+    cards.forEach(function(card, index) {
+      var e = createElt('entry');
+      e.appendChild(createElt('j', card[0]));
+      e.appendChild(createElt('r', card[1]));
+      e.appendChild(createElt('e', card[2]));
+      list.appendChild(e);
+    });
+  };
+
   this.goToNext = function(event) {
 
     //console.log(event.target);
@@ -47,13 +75,16 @@ var Vl = (function() {
 
   this.ready = function() {
 
+    Vl.populateList();
+
     var index = 0;
 
     Vl.displayEntry(index);
 
-    document.querySelector('#next').addEventListener('click', Vl.goToNext);
+    document.querySelector('#to-list').addEventListener('click', Vl.goToList);
     document.querySelector('#card .j').addEventListener('click', Vl.showRuby);
     document.querySelector('#card .r').addEventListener('click', Vl.showRuby);
+    document.querySelector('#to-next').addEventListener('click', Vl.goToNext);
   };
 
   //
