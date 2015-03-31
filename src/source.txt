@@ -79,28 +79,81 @@ soul, spirit
 大和魂
 やまとだましい
 the Japanese Spirit
-#せっきょくてき
-#方針
-#自転車
-#ほうしんてんかん
-#前提　
-#提出（ていしゅつ）
-#設定（せってい）
-#通じて（つうじて）　通して（とおして）
-#防ぐ（ふせぐ）
-#相談にのる　のってもらう
-#悩み無用
-#いかに　どんなに
-#いか　how
-#眼科（がんか）
-#改行（かいぎょう）
-#距離（きょり）
-#どくしょ
-#もじ
-#非常に（ひじょうに）
-#観察（かんさつ）
-#あたかも＝まるで
-#情報（じょうほう）
+積極的
+せっきょくてき
+assertive, positive, active, proactive
+方針
+ほうしん
+objective, plan, policy
+方針転換
+ほうしんてんかん
+change of plan/objective
+転換する
+てんかんする
+to convert/divert
+前提
+ぜんてい
+preamble, premise, reason, prerequisite, assumption
+提出する
+ていしゅつする
+to present, to submit (report/thesis)
+設定
+せってい
+settings
+通じて
+つうじて
+through, throughout, via
+通して
+とおして
+through the
+防ぐ
+ふせぐ
+to defend (against), to protect, to prevent
+相談にのる
+そうだんにのる
+to give advice, to counsel, to take part in a consultation
+悩み無用
+なやみむよう
+useless troubles
+いかに
+如何に
+how, in what way; however much, whatever
+どんなに
+どんなに
+how, how much
+いか
+如何
+how, in what way, how about
+眼科
+がんか
+ophtalmology
+改行
+かいぎょう
+newline (cr/lf), new paragraph
+距離
+きょり
+distance, range
+読書
+どくしょ
+reading
+文字
+もじ
+letter (of alphabet), character; literal
+非常に
+ひじょうに
+very, extremely, exceedingly
+観察
+かんさつ
+observation, survey
+あたかも
+恰も
+as if, as it were; right then, just then
+まるで
+丸で
+quite, entirely, completely; at all; as if, as though
+情報
+じょうほう
+news, gossip, intelligence (mil); information
 #反論（はんろん）
 #のんき
 #判断（はんだん）する
