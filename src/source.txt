@@ -154,35 +154,81 @@ quite, entirely, completely; at all; as if, as though
 情報
 じょうほう
 news, gossip, intelligence (mil); information
-#反論（はんろん）
-#のんき
-#判断（はんだん）する
-#びっくりしたのは
-#びっくりしたのは
-#xxx
-#ちつじょ
-#料理
-#科学的
-#職業（しょくぎょう）
-#傾向（けいこう）
-#秩序（ちつじょ）
-#公（おおやけ）
-#公立（こうちつ）
-#私立（しりつ・わたくしりつ）
-#市立（しりつ・いちりつ）
-#慎重（しんちょう）
-#性質（せいしつ）
-#性格（せいかく）
-#神経質
-#しんけいしつ
-#反映（はんえい）
-#対照的（たいしょうてき）
-#りりしい
-#楽天的（らくてんてき）
-#悲観的（ひかんてき）
-#気まぐれ
-#典型的（てんけいてき）★★★
-#几帳面（きちょうめん）
+反論
+はんろん
+objection, refutation, rebuttal
+のんき
+のんき
+carefree, optimistic, careless, reckless, heedless
+判断する
+はんだんする
+to judge, to decide, to conclude
+びっくりしたのは
+びっくりしたのは
+what surprised me
+秩序
+ちつじょ
+order, regularity, system, method
+料理
+りょうり
+cooking, cuisine
+科学的
+かがくてき
+scientific
+職業
+しょくぎょう
+occupation, business
+公の
+おおやけの
+official, public, formal, open, governmental
+公立
+こうりつ
+public (institution)
+私立
+しりつ・わたくしりつ
+private (establishment)
+市立
+しりつ・いちりつ
+municipal (institution)
+慎重な
+しんちょうな
+careful, cautious, prudent, discreet, deliberate
+性質
+せいしつ
+nature, property, disposition
+性格
+せいかく
+character, personality, disposition, nature
+神経質
+しんけいしつ
+nervousness, being highly strung, sensitiveness, neurotic
+反映
+はんえい
+influence; reflection
+反映する
+はんえいする
+to apply, to implement
+対照的
+たいしょうてき
+contrastive
+凛々しい
+りりしい
+gallant, brave, imposing, awe-inspiring, severe
+楽天的
+らくてんてき
+optimistic
+悲観的
+ひかんてき
+pessimistic
+気紛れ
+きまぐれ
+whim, caprice, whimsy, fickle, moody, uneven temper
+典型的
+てんけいてき
+typical, prototypical, representative, sterotypical, model
+几帳面
+きちょうめん
+methodical, punctual, steady
 #客観的（きゃっかんてき）
 #主観的（しゅかんてき）
 #相性（あいしょう）がいい
@@ -213,4 +259,3 @@ news, gossip, intelligence (mil); information
 #暖房（だんぼう）
 #座卓（ざたく）
 #最終回（さいしゅうかい）
-
