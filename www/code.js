@@ -53,6 +53,11 @@ var Vl = (function() {
     Vl.displayEntry(index + 1);
   };
 
+  this.goToRandom = function(event) {
+
+    Vl.displayEntry(Math.round(Math.random() * cards.length));
+  };
+
   this.showRuby = function(event) {
 
     //console.log(event);
@@ -68,6 +73,8 @@ var Vl = (function() {
   };
 
   this.displayEntry = function(index) {
+
+    document.getElementById('list').style.display = 'none';
 
     //var entry = document.querySelectorAll('#list > .entry')[index];
     var entry = cards[index];
@@ -93,6 +100,7 @@ var Vl = (function() {
     Vl.displayEntry(index);
 
     document.querySelector('#to-list').addEventListener('click', Vl.goToList);
+    document.querySelector('#to-random').addEventListener('click', Vl.goToRandom);
     document.querySelector('#card .j').addEventListener('click', Vl.showRuby);
     document.querySelector('#card .r').addEventListener('click', Vl.showRuby);
     document.querySelector('#to-next').addEventListener('click', Vl.goToNext);

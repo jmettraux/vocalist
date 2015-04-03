@@ -82,8 +82,18 @@ body {
   width: 98%;
 }
 
-#to-list {
+#head {
   width: 100%;
+}
+#to-list {
+  display: inline-block;
+  width: 65%;
+  height: 3em;
+  cursor: pointer;
+}
+#to-random {
+  display: inline-block;
+  width: 25%;
   height: 3em;
   cursor: pointer;
 }
