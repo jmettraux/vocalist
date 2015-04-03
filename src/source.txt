@@ -313,3 +313,57 @@ low table
 最終回
 さいしゅうかい
 last time, last inning, last part, final episode
+禁止
+きんし
+prohibition, ban
+禁煙
+きんえん
+no smoking
+煙
+けむり
+smoke, fumes
+安静な
+あんせいな
+quietly
+静かな
+しずかな
+quiet
+静まる
+しずまる
+to become quiet
+危機
+きき
+a crisis
+危ない
+あぶない
+dangerous
+危うい
+あやうい
+dangerous; narrow, close (call); uncertain, unreliable
+危険
+きけん
+danger
+危険な
+きけんな
+dangerous, hazardous
+険しい
+けわしい
+steep, precipitous; grim, severe, stern
+関心
+かんしん
+concern, interest
+関わる
+かかわる
+to have to do with
+に関する
+にかんする
+related to
+関係
+かんけい
+relation, connection
+係
+かかり
+charge, person in charge
+係員
+かかりいん
+person in charge
