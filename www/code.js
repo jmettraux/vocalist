@@ -5,7 +5,8 @@ var Vl = (function() {
 
   this.goToList = function(event) {
 
-    document.getElementById('list').style.display = 'block';
+    var l = document.getElementById('list')
+    l.style.display = (l.style.display === 'block') ? 'none' : 'block';
   };
   this.goTo = function(event) {
     document.getElementById('list').style.display = 'none';
