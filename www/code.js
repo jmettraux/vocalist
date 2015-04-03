@@ -42,16 +42,18 @@ var Vl = (function() {
     });
   };
 
-  this.goToNext = function(event) {
+  var goTo = function(ev, inc) {
 
-    //console.log(event.target);
-    if (event.target.classList.contains('j')) return;
+    if (ev.target.classList.contains('j')) return;
 
     var index = document.getElementById('card').getAttribute('data-vl-index'),
     index = parseInt(index, 10);
 
-    Vl.displayEntry(index + 1);
+    Vl.displayEntry(index + inc);
   };
+
+  this.goToPrev = function(ev) { goTo(ev, -1); }
+  this.goToNext = function(ev) { goTo(ev, 1); }
 
   this.goToRandom = function(event) {
 
@@ -103,6 +105,7 @@ var Vl = (function() {
     document.querySelector('#to-random').addEventListener('click', Vl.goToRandom);
     document.querySelector('#card .j').addEventListener('click', Vl.showRuby);
     document.querySelector('#card .r').addEventListener('click', Vl.showRuby);
+    document.querySelector('#to-prev').addEventListener('click', Vl.goToPrev);
     document.querySelector('#to-next').addEventListener('click', Vl.goToNext);
   };
 

@@ -97,8 +97,19 @@ body {
   height: 3em;
   cursor: pointer;
 }
-#to-next {
+
+#foot {
   width: 100%;
+}
+#to-prev {
+  display: inline-block;
+  width: 25%;
+  height: 9em;
+  cursor: pointer;
+}
+#to-next {
+  display: inline-block;
+  width: 65%;
   height: 9em;
   cursor: pointer;
 }
