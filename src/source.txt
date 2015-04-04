@@ -367,3 +367,60 @@ charge, person in charge
 係員
 かかりいん
 person in charge
+転落
+てんらく
+fall, degradation, slump, spill
+落ちる
+おちる
+to fall
+落第
+らくだい
+failing/repeating a course
+落とす
+おとす
+to drop
+落石
+らくせき
+falling rocks
+石
+いし
+stone
+磁石
+じしゃく
+magnet, compass
+飛行場
+ひこうじょう
+airfield, airport
+空港
+くうこう
+airport
+飛ぶ
+とぶ
+to fly
+飛び出す
+とびだす
+to run out suddenly
+駐車場
+ちゅうしゃじょう
+parking lot
+駐車
+ちゅうしゃ
+parking
+捨てる
+すてる
+to throw away
+四捨五入
+ししゃごにゅう
+round to the nearest (decimal place)
+遊泳
+ゆうえい
+swimming, bathing; conduct of life
+遊ぶ
+あそぶ
+to play
+水泳
+すいえい
+swimming
+泳ぐ
+およぐ
+to swim
