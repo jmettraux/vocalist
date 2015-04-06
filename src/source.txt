@@ -466,3 +466,57 @@ date, dating
 ～付き
 ～つき
 included, attached to
+案内
+あんない
+information, guidance
+案
+あん
+idea, plan, thought; draft; expectation
+以内
+いない
+within
+社内
+しゃない
+within the company
+内
+うち
+the inside
+会議室
+かいぎしつ
+meeting room
+議論
+ぎろん
+argument, discussion, dispute, controversy
+不思議な
+ふしぎな
+wonderful, strange
+議員
+ぎいん
+assembly member, member of the Diet/parliament
+文化
+ぶんか
+culture
+化粧室
+けしょうしつ
+powder room, toilet
+階段
+かいだん
+stairs
+段階
+だんかい
+grade, level, stage, class, phase, steps
+三階
+さんがい
+third floor
+段
+だん
+step
+一段と
+いちだんと
+even more
+手段
+しゅだん
+means, way
+石段
+いしだん
+stone step
