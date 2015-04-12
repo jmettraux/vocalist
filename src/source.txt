@@ -733,3 +733,60 @@ road, highway
 通路
 つうろ
 passage, pathway, roadway, avenue, aisle
+港
+みなと
+port, harbor
+理由
+りゆう
+reason, pretext, motive
+経由
+けいゆ
+through, by way of, via
+経由する
+けいゆする
+to go via, to go by way of
+不自由
+ふじゆう
+discomfort, inconvenience; poverty; disability, impairment
+深夜
+しんや
+midnight, late at night
+深い
+ふかい
+deep
+深刻な
+しんこくな
+serious
+降車口
+こうしゃぐち
+exit (for getting off)
+降りる
+おりる
+to get off; to retire, to give up; to come down
+下降
+かこう
+downward, descent, fall, drop, subsidence
+降る
+ふる
+to precipitate, to fall (rain)
+両親
+りょうしん
+parents, both parents
+両方
+りょうほう
+both sides, both parties
+両替
+りょうがえ
+change, money exchange
+着替える
+きがえる
+to change clothes
+為替
+かわせ
+money order, draft; [foreign] exchange
+家賃
+やちん
+rent
+運賃
+うんちん
+fare; shipping expenses, freight rates
