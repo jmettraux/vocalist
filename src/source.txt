@@ -790,3 +790,75 @@ rent
 運賃
 うんちん
 fare; shipping expenses, freight rates
+分割
+ぶんかつ
+partition, division, segmenting, splitting
+分割払い
+ぶんかつばらい
+payment by installments
+割引
+わりびき
+discount, reduction, rebate
+割れる
+われる
+to break; to split; to be divided; to come to light
+時間割
+じかんわり
+[school] timetable, schedule
+増加
+ぞうか
+increase, increment, addition
+増える
+ふえる
+to increase
+割増
+わりまし
+ｐremium, bonus, extra wages
+優先
+ゆうせん
+preference, priority, precedence
+優しい
+やさしい
+tender, kind, gentle, graceful, affectionate, amiable
+優れる
+すぐれる
+to surpass, to outstrip, to excel
+席
+せき
+seat; location; position, post
+指定席
+していせき
+reserved seat
+出席
+しゅっせき
+attendance, presence, appearance
+出席する
+しゅっせきする
+to attend
+側面
+そくめん
+side, flank, sidelight, lateral
+両側
+りょうがわ
+both sides
+座席
+ざせき
+seat
+座る
+すわる
+to seat
+銀行口座
+ぎんこうこうざ
+bank account
+寄付
+きふ
+contribution, donation
+立ち寄る
+たちよる
+to stop by, to drop in for a short visit
+取り寄せる
+とりよせる
+to order, to send away for
+年寄り
+としより
+old people, aged person; sumo coach
