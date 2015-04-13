@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
+
+  <title>vocalist</title>
+
+  <style>
+    .entry > div {
+      display: inline-block;
+    }
+    .entry:nth-child(odd) {
+      background-color: #eee;
+    }
+    .i {
+      display: none;
+    }
+    .j, .r {
+      width: 200px;
+    }
+    .e {
+      width: 600px;
+    }
+  </style>
+</head>
+
+<body>
+
+  <div id="list"></div>
+
+  <script src="code.js"></script>
+  <script src="content.js" charset="UTF-8"></script>
+
+  <script>
+    document.addEventListener('DOMContentLoaded', Vl.populateList);
+  </script>
+</body>
+</html>
+
