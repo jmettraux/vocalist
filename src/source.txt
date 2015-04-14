@@ -862,3 +862,208 @@ to order, to send away for
 年寄り
 としより
 old people, aged person; sumo coach
+企業
+きぎょう
+entreprise, undertaking, corporation, business
+経営
+けいえい
+management, administration
+公共性
+こうきょうせい
+publicness, public nature, commonality
+登山
+とざん
+mountain climbing
+役割
+やくわり
+part, role, duties, assignment of parts
+担当
+たんとう
+in charge (of an area of responsibility)
+担う
+になう
+to carry on shoulder, to bear (burden), to shoulder (gun)
+補助
+ほじょ
+assistance, support, aid, help; subsidy, subvention; auxiliary
+必要
+ひつよう
+necessary, needed, essential, indispensable; necessity, need, requirement
+減少
+げんしょう
+decrease, reduction, decline
+放置
+ほうち
+leave as is, leave to chance, leave alone, neglect
+環境
+かんきょう
+environment (nature), circumstance
+負担
+ふたん
+burden, charge, responsibility
+保持
+ほじ
+retention, maintenance, preservation
+費用
+ひよう
+cost, expense
+従来
+じゅうらい
+up to now, so far, traditional, existing
+使用
+しよう
+use, application, employment, utilization
+修理
+しゅうり
+repairing, mending, servicing
+余裕
+よゆう
+surplus, composure, margin, room, time, allowance
+影響
+えいきょう
+influence, effect
+影響する
+えいきょうする
+to influence, to affect, to have an influence, to impact
+汚染
+おせん
+pollution, contamination
+考慮
+こうりょ
+consideration, taking into account
+財産
+ざいさん
+property, fortune, assets
+利益
+りえき
+profit, gains; benefit, advantage
+制限
+せいげん
+restriction, restraint, limitation, limit
+対策
+たいさく
+counter-plan, counter-measure
+賛成
+さんせい
+approval, agreement, support, favour
+使用する
+しようする
+use a physical thing
+利用する
+りようする
+use a service
+最も
+もっとも
+most, extremely
+問い
+とい
+question, query
+月刊
+げっかん
+monthly publication, monthly issue
+週刊
+しゅうかん
+weekly publication
+全３巻
+ぜんさんかん
+3 volumes
+交渉
+こうしょう
+negotiations, discussions, connection
+情報
+じょうほう
+news, gossip, (military) intelligence; information
+罪
+つみ
+crime, fault, indiscretion, sin
+取材
+しゅざい
+collecting data (for article), covering an event
+大量
+たいりょう
+large quantity, massive, mass
+証言
+しょうげん
+evidence, testimony
+資料
+しりょう
+materials, data, document
+細部
+さいぶ
+details
+真実
+しんじつ
+truth, reality
+願望
+がんぼう
+desire, wish, aspiration
+満たす
+みたす
+to satisfy, to fulfill, to appease; to fill, to pack; to reach
+登場人物
+とうじょうじんぶつ
+characters (play, novel)
+蕁麻疹
+じんましん
+hives, nettle rash, urticaria
+構成
+こうせい
+organization, configuration, composition
+評価
+ひょうか
+valuation, estimation, assessment
+評価する
+ひょうかする
+to value, to assess; to appreciate, to value highly
+久々
+ひさびさ
+in a long time, long time ago, long ago
+長編
+ちょうへん
+long (novel, film)
+日米間
+にちべいかん
+US-Japan
+世間
+せけん
+world, society
+関係
+かんけい
+relation, connection; participation, concern; influence, effect
+移って
+うつって
+to move, to transfer; to change the target; to elapse (time)
+求める
+もとめる
+to want, to wish for; to request, to demand; to seek, to search for
+姿勢
+しせい
+attitude, posture, stance, approach
+身近に
+みぢかに
+near onesself, close to one, familiar
+情景
+じょうけい
+spectacle, sight, scene
+緊迫感
+きんぱくかん
+urgency
+批判的
+ひはんてき
+critical
+存在
+そんざい
+existence, being
+意識
+いしき
+consciousness; awareness, sense
+感想
+かんそう
+impressions, thoughts
+豊か
+ゆたか
+abundant, wealthy, plentiful, rich, affluent
+魅力
+みりょく
+charm, fascination, glamour, attraction, appeal
+
