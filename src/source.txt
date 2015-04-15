@@ -1066,4 +1066,48 @@ abundant, wealthy, plentiful, rich, affluent
 魅力
 みりょく
 charm, fascination, glamour, attraction, appeal
-
+郵便
+ゆうびん
+mail, postal service
+郵送
+ゆうそう
+sending by post
+郵便局
+ゆうびんきょく
+post office
+放送局
+ほうそうきょく
+broadcasting office
+薬局
+やっきょく
+drugstore
+貯金
+ちょきん
+savings
+包帯
+ほうたい
+bandage, dressing
+包む
+つつむ
+to wrap up, to tuck in, to pack, to cover with
+小包
+こづつみ
+parcel, package
+発達
+はったつ
+development, growth
+友達
+ともだち
+friend
+速達
+そくたつ
+express/special delivery
+国際
+こくさい
+international
+実際に
+じっさいに
+virtually, practically; currently, presently
+子供の際
+こどものさい
+when he was a child
