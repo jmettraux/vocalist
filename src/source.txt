@@ -1174,3 +1174,66 @@ first-aid, emergency
 救う
 すくう
 to rescue from, to help out of, to save
+普通の
+ふつうの
+ordinary, usual, general
+普段の
+ふだんの
+usual, habitual, ordinary, everyday
+回数券
+かいすうけん
+commuter ticket book
+旅券
+りょけん
+passport
+乗車券
+じょうしゃけん
+passenger ticket, train ticket
+発券
+はっけん
+issuing (banknote, ticket, ...)
+数字
+すうじ
+numeral, figure, digit
+数学
+すうがく
+mathematics, arithmetic
+点数
+てんすう
+score, points, marks
+数を数える
+かずをかぞえる
+to count numbers
+飛行機
+ひこうき
+airplane
+自動券売機
+じどうけんばいき
+ticket machine
+交通機関
+こうつうきかん
+means of transportation
+危機
+きき
+crisis, danger, risk
+復習
+ふくしゅう
+review, revision
+回復
+かいふく
+restoration, rehabilitation, recovery; convalescence
+往復
+おうふく
+round trip [ticket]; correspondence; socializing, visit each other
+破片
+はへん
+fragment, splinter, broken piece
+片付ける
+かたづける
+to tidy up; to settle/clear; to finish
+片道切符
+かたみちきっぷ
+one-way ticket
+枚数
+まいすう
+count of flat things
