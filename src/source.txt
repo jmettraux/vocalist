@@ -1237,3 +1237,39 @@ one-way ticket
 枚数
 まいすう
 count of flat things
+共同
+きょうどう
+doing together, sharing, common (land), cooperation, collaboration
+登録料
+とうろくりょう
+inscription fee
+会費
+かいひ
+membership fee
+需要
+じゅよう
+demand, request
+見込む
+みこむ
+to anticipate, to estimate, to expect
+中心
+ちゅうしん
+center, middle, heart, core, focus
+半径
+はんけい
+radius
+駐輪場
+ちゅうりんじょう
+bicycle parking
+設ける
+もうける
+to prepare ahead of time; to create, to establish
+提供
+ていきょう
+offer, tender, program sponsoring
+集客
+しゅうきゃく
+attracting customers
+狙う
+ねらう
+to aim at
