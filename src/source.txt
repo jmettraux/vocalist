@@ -1348,3 +1348,30 @@ magnification, expansion, enlargement, amplification
 期待
 きたい
 expectation, anticipation, hope
+普及
+ふきゅう
+diffusion, spread, popularization
+鑑賞
+かんしょう
+admiration, enjoyment
+平面
+へいめん
+level surface, plane
+立体
+りったい
+solid body, 3d object
+立体的
+りったいてき
+three-dimensional
+惹きつける
+ひきつける
+to fascinate, to attract, to charm
+引きつける
+ひきつける
+to fascinate, to attract, to charm
+期待を裏切らない
+きたいをうらぎらない
+to not betray the expectation
+大したことない
+たいしたことない
+not a big deal
