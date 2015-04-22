@@ -1375,3 +1375,69 @@ to not betray the expectation
 大したことない
 たいしたことない
 not a big deal
+期間
+きかん
+period of time, interval
+定期券
+ていきけん
+commuter pass
+定期
+ていき
+fixed period, fixed term
+販売
+はんばい
+sales, selling, marketing
+自動販売機
+じどうはんばいき
+vending machine
+指定席
+していせき
+reserved seat
+指
+ゆび
+finger
+指す
+さす
+to point; to select; to point out
+調整
+ちょうせい
+adjustment, regulation, coordination
+調べる
+しらべる
+to examine, to investigate, to search, to study
+調子
+ちょうし
+state of health; tune, tone, pitch; mood, manner
+整理券
+せいりけん
+numbered ticket; boarding ticket
+整備
+せいび
+maintenance, overhaul
+整う
+ととのう
+to be prepared, to be in order
+表
+ひょう
+chart, list, table (fig 1)
+発表
+はっぴょう
+announcement, publication, statement, communique
+表
+おもて
+surface; face (visible); outside, exterior
+時刻表
+じこくひょう
+timetable, schedule, diagram
+表示
+ひょうじ
+indication, expression, manifestation; display (IT)
+掲示
+けいじ
+notice, bulletin, post, placard
+指示
+しじ
+indication, instruction, directions
+示す
+しめす
+to show, to demonstrate, to make apparent; to point out
