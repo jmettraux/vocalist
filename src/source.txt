@@ -1504,3 +1504,72 @@ to shine on, to illuminate; to compare with, to refer to
 対照的な
 たいしょうてきな
 contrastive
+硬い
+かたい
+hard, solid; stiff, tight; formal, stuffy
+硬貨
+こうか
+coin, hard currency
+貨物
+かもつ
+cargo, freight
+通貨
+つうか
+currency
+確定
+かくてい
+decision, settlement
+確か
+たしか
+sure, certain, positive; reliable, trustworthy, exact
+明確な
+めいかくな
+clear, precise, definite, distinct
+確かめる
+たしかめる
+to ascertain, to check, to make sure
+確認
+かくにん
+confirmation, verification, validation, check
+認める
+みとめる
+to notice; to assess, to judge; to approve; to admit
+違法
+いほう
+illegality, unlawfulness
+間違える
+まちがえる
+to make a mistake; to confuse, to mistake
+違い
+ちがい
+difference, discrepancy
+間違い
+まちがい
+mistake, error; mishap, trouble
+取材
+しゅざい
+info gathering, news coverage; interview
+取る
+とる
+to take, to pick up, to choose
+書き取り
+かきとり
+dictation, transcription
+取り消し
+とりけし
+cancellation, revocation
+聞き取り
+ききとり
+listening comprehension
+消去
+しょうきょ
+elimination, purge, extinction
+消す
+けす
+ｔo erase, to delete; to turn off power; to extinguish
+消える
+きえる
+to go out, to vanish, to disappear
+消しゴム
+けしごむ
+eraser, rubber
