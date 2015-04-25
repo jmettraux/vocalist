@@ -1566,10 +1566,77 @@ listening comprehension
 elimination, purge, extinction
 消す
 けす
-ｔo erase, to delete; to turn off power; to extinguish
+to erase, to delete; to turn off power; to extinguish
 消える
 きえる
 to go out, to vanish, to disappear
 消しゴム
 けしごむ
 eraser, rubber
+温度
+おんど
+temperature
+温室
+おんしつ
+greenhouse
+体温計
+たいおんけい
+(medical) thermometer
+温かい
+あたたかい
+warm
+冷静
+れいせい
+calm, coolness, composure
+冷える
+ひえる
+to grow cold, to cool down (self)
+冷める
+さめる
+to become cool (from a high temp); to cool down (interest)
+冷たい
+つめたい
+cold (to the touch), chilly; coldhearted, unfeeling
+冷やす
+ひやす
+to cool (from room temperature), to chill; to calm down, to relax
+冷ます
+さます
+to cool sthing, to let sthing cool; to dampen
+緑茶
+りょくちゃ
+green tea, japanese tea
+緑色
+みどりいろ
+the green color
+新緑
+しんりょく
+fresh verdure, new green leaves
+紅茶
+こうちゃ
+black tea
+口紅
+くちべに
+lipstick
+水玉
+みずたま
+drop of water
+十円玉
+じゅうえんだま
+10 yen coin
+玉
+たま
+ball, sphere, bead; bullet; jewel;
+返事
+へんじ
+reply, answer, response
+返金
+へんきん
+repayment, refund
+返却
+へんきゃく
+return of sthing, repayment
+返す
+かえす
+to return sthing, to restore; to overturn; to pay back, to reciprocate
+
