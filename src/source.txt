@@ -1639,4 +1639,72 @@ return of sthing, repayment
 返す
 かえす
 to return sthing, to restore; to overturn; to pay back, to reciprocate
-
+団体
+だんたい
+organization, association
+団地
+だんち
+apartment complex
+集団
+しゅうだん
+group, mass, crowd
+布団
+ふとん
+futon
+一般
+いっぱん
+general, universal; ordinary, average, common
+全般
+ぜんぱん
+the whole, universal, wholly, as a whole, general
+幼児
+ようじ
+infant, baby, child
+幼い
+おさない
+very young; childish, immature
+小児科
+しょうにか
+pediatrics
+児童
+じどう
+children, juvenile
+三歳
+さんさい
+three years old
+二十歳
+はたち
+twenty years old
+未定
+みてい
+not yet fixed, undecided, pending
+未知
+みち
+not yet known, unknown, strange
+未来
+みらい
+the (distant) future; the world to come
+未満
+みまん
+less than, insufficient
+満足
+まんぞく
+satisfaction, contentment, complacency
+満足な
+まんぞくな
+sufficient, enough, adequate, proper
+満員
+まんいん
+full house, no vacancy, sold out, full, crowded
+満ちる
+みちる
+to be full; to rise (tide); to mature, to expire
+老人
+ろうじん
+old person, the aged
+年老いた
+としおいた
+old, grown old
+年老いる
+としおいる
+to grow old
