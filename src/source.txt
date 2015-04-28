@@ -1708,3 +1708,69 @@ old, grown old
 年老いる
 としおいる
 to grow old
+設定
+せってい
+setting, scene; configuration, settings
+設計
+せっけい
+plan, design, layout
+設備
+せつび
+equipment, device, facilities
+換気
+かんき
+ventilation
+運転切換
+うんてんきりかえ
+change of mode of operation
+乗り換え
+のりかえ
+transfer, connection (bus, train, plane)
+風向
+ふうこう
+wind direction
+風の向き
+かぜのむき
+wind direction
+向かい
+むかい
+facing, opposite, across the street, other side
+向こう
+むこう
+opposite side; over there; the other party; future (starting now)
+停止
+ていし
+interruption, ban, halt; "minute de silence"
+停電
+ていでん
+power outage, blackout
+停車
+ていしゃ
+stopping (train)
+暖房
+だんぼう
+heating
+温暖
+おんだん
+warm, mild, temperate; warmth
+暖かい
+あたたかい
+warm, mild (air temp)
+除湿
+じょしつ
+dehumidification
+掃除
+そうじ
+cleaning, sweeping, dusting, scrubbing
+除く
+のぞく
+to remove, to eradicate; to exclude, to except
+湿度
+しつど
+humidity
+湿気
+しっけ
+moisture, humidity, dampness
+湿る
+しめる
+to become wet/damp; to be moist; to be in low spirits
