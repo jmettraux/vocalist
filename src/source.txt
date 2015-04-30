@@ -1834,3 +1834,37 @@ question, inquiry
 生成
 せいせい
 creation, generation, formation, derivation
+教師
+きょうし
+teacher
+注意
+ちゅうい
+caution, being careful, warning
+世界
+せかい
+world, society, the universe
+続く
+つづく
+to continue, to last, to go on
+場合
+ばあい
+case, situation
+反省文
+はんせいぶん
+written apology
+出くわす
+でくわす
+to happen to meet, to come across
+不始末
+ふしまつ
+omission, failure; misconduct, malpractice
+順序
+じゅんじょ
+order, sequence, procedure
+悪ふざけをする
+わるふざけをする
+to play pranks, to joke around
+至れり尽くせり
+いたれりつくせり
+perfect, complete, thorough, more than satisfactory
+
