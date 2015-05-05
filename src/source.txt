@@ -2158,3 +2158,76 @@ yearning, longing, aspiration
 喜び
 よろこび
 joy, delight, rapture
+地帯
+ちたい
+zone, area
+温帯
+おんたい
+temperate zone
+携帯電話
+けいたいでんわ
+mobile phone
+帯
+おび
+obi, belt, kimono sash
+保温
+ほおん
+warmth retention, heat insulation
+保険
+ほけん
+insurance, guarantee
+保湿
+ほしつ
+moisturizing, keeping humidity
+保つ
+たもつ
+to keep, to preserve, to hold, to maintain
+保留
+ほりゅう
+reserve, putting on hold, deferment
+停留所
+ていりゅうじょ
+bus stop, station
+留学
+りゅうがく
+studying abroad (uni level)
+書留
+かきとめ
+registered mail; registration, putting on record
+保守的
+ほしゅてき
+conservative
+守る
+まもる
+to protect, to guard, to defend; to keep (promise), to abide (rules)
+留守
+るす
+absent from home; house-sitting
+お守り
+おまもり
+charm, amulet
+伝言
+でんごん
+verbal message, word
+手伝う
+てつだう
+to help, to aid; to contribute to, to be a factor in
+伝える
+つたえる
+to convey, to report, to transmit
+返済
+へんさい
+repayment, refund, redemption
+済む
+すむ
+to finish, to end; to feel at ease
+用件
+ようけん
+business, todo, information that should be conveyed
+事件
+じけん
+event, affair, case, incident, trouble
+件名
+けんめい
+term, subject, title
+
