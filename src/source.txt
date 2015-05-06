@@ -2230,4 +2230,69 @@ event, affair, case, incident, trouble
 件名
 けんめい
 term, subject, title
-
+通信
+つうしん
+correspondence, communication, transmission
+自信
+じしん
+self-confidence
+信じる
+しんじる
+to believe, to have faith in
+着信履歴
+ちゃくしんりれき
+list of received calls
+歴史
+れきし
+history
+履歴書
+りれきしょ
+curriculum vitae, resume
+受信箱
+じゅしんばこ
+inbox, in-tray
+ゴミ箱
+ごみばこ
+dust bin, garbage can, trash
+送信箱
+そうしんばこ
+outbox
+新規
+しんき
+new, fresh; new item, newly created
+規定
+きてい
+stipulation, prescription, provision, regulation
+変換
+へんかん
+change, conversion, transformation, translation
+変わる
+かわる
+to change, to be altered; to move to; to be different/uncommon
+大変
+たいへん
+very, greatly; immense; serious, grave, terrible
+変える
+かえる
+to change, to alter, to convert; to reform, to revise, to amend
+選択
+せんたく
+selection, choice, option
+選考
+せんこう
+selection, screening
+選手
+せんしゅ
+player, team member
+選ぶ
+えらぶ
+to choose, to select
+決定
+けってい
+decision, determination
+決める
+きめる
+to decide, to choose, to determine; to persist in doing; ...
+決まる
+きまる
+to be decided, to be settled
