@@ -2338,3 +2338,51 @@ printing
 縮小
 しゅくしょう
 reduction, curtailment
+片道
+かたみち
+one-way (trip)
+冷房
+れいぼう
+cooling, air-conditioning
+温水
+おんすい
+warm water
+冷水
+れいすい
+cold water
+若者
+わかもの
+young [wo]man, young people, yougnsters
+若い
+わかい
+young, youthful; immature, green
+反対
+はんたい
+opposition, resistance, antagonism, hostility, objection; reverse, vice versa
+賛成
+さんせい
+approval, agreement, support, favor
+捨てる
+すてる
+to throw away, to dump; to abandon, to leave; to give up, to resign
+拾う
+ひろう
+to pick up, to find, to gather
+鋭い
+するどい
+sharp (pain/blade), pointed; perceptive, keen, astute; nimble, agile, quick
+鈍い
+にぶい
+dull, knife, blunt; thickheaded, obtuse, stupid; slow, sluggish; indulgent
+肯定
+こうてい
+positive, affirmation
+否定
+ひてい
+negation, denial, repudiation; not (operation)
+浮く
+うく
+to float; to become merry, to be cheerful; to become loose; to be uncertain, frivolous
+沈む
+しずむ
+to sink, to go under, to submerge; to go down, to set (sun); to feel depressed
