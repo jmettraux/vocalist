@@ -2461,3 +2461,76 @@ forehead, brow
 金額
 きんがく
 amount of money
+込む
+こむ
+to be crowded, to be packed; to be complex
+払い込む
+はらいこむ
+to deposit, to pay in
+飛び込む
+とびこむ
+to jump in, to plunge into; to burst in, to barge in
+申し込む
+もうしこむ
+to apply for, to propose (wedd), to make an overture, to book, to reserve
+思い込む
+おもいこむ
+to be under impression that, to be convincend that, to imagine that
+領収書
+りょうしゅうしょ
+[formal] receipt
+領事館
+りょうじかん
+consulate
+大統領
+だいとうりょう
+president, chief executive
+収入
+しゅうにゅう
+income, receipts, revenue
+回収
+かいしゅう
+collection, recovery, withdrawal, retrieval
+収める
+おさめる
+to pay (fees), to offer (at temple); to supply; to store
+収集
+しゅうしゅう
+gathering up, collection, accumulation
+吸収
+きゅうしゅう
+absorption, suction, attraction
+機械
+きかい
+machine, mechanism; instrument, appliance, apparatus
+器械体操
+きかいたいそう
+apparatus gymnastics, artistic gymnastics
+曲
+きょく
+tune, piece of music
+折り曲げる
+おりまげる
+to bend, to turn up/down, to double
+曲線
+きょくせん
+curve, curved line
+曲がる
+まがる
+to bend, to curve, to warp, to wind, to twist; to turn; to be crooked
+汚染
+おせん
+pollution, contamination
+汚す
+よごす
+to pollute, to contaminate, to stain; to disgrace, to dishonor, to defile
+汚い
+きたない
+dirty, foul, unclean; untidy; vulgar; mean, base; greedy
+汚れる
+よごれる
+to get/become dirty; to become corrupted
+殿様
+とのさま
+feudal lord
+
