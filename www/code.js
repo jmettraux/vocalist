@@ -26,21 +26,21 @@ var Vl = (function() {
     return e;
   };
 
-  this.populateList = function() {
-
-    var list = document.getElementById('list');
-
-    cards.forEach(function(card, index) {
-      var e = createElt('entry');
-      var j = createElt('j', card[0], { 'data-vl-index': index });
-      j.appendChild(createElt('i', '' + index));
-      e.appendChild(j);
-      e.appendChild(createElt('r', card[1]));
-      e.appendChild(createElt('e', card[2]));
-      list.appendChild(e);
-      j.addEventListener('click', Vl.goTo);
-    });
-  };
+//  this.populateList = function() {
+//
+//    var list = document.getElementById('list');
+//
+//    cards.forEach(function(card, index) {
+//      var e = createElt('entry');
+//      var j = createElt('j', card[0], { 'data-vl-index': index });
+//      j.appendChild(createElt('i', '' + index));
+//      e.appendChild(j);
+//      e.appendChild(createElt('r', card[1]));
+//      e.appendChild(createElt('e', card[2]));
+//      list.appendChild(e);
+//      j.addEventListener('click', Vl.goTo);
+//    });
+//  };
 
   var goTo = function(ev, inc) {
 
@@ -60,7 +60,7 @@ var Vl = (function() {
     Vl.displayEntry(Math.round(Math.random() * cards.length));
   };
 
-  this.showRuby = function(event) {
+  this.showRuby = function(ev) {
 
     //console.log(event);
     //console.log(event.target);
@@ -71,14 +71,14 @@ var Vl = (function() {
     var e = document.querySelector('#card .e');
     if (e.style.display !== 'block') { e.style.display = 'block'; return; }
 
-    Vl.displayEntry(0);
+    //Vl.displayEntry(0);
+    Vl.goToNext(ev);
   };
 
   this.displayEntry = function(index) {
 
-    document.getElementById('list').style.display = 'none';
+    //document.getElementById('list').style.display = 'none';
 
-    //var entry = document.querySelectorAll('#list > .entry')[index];
     var entry = cards[index];
     if ( ! entry) { Vl.displayEntry(0); return; }
 
@@ -95,18 +95,18 @@ var Vl = (function() {
 
   this.ready = function() {
 
-    Vl.populateList();
+    //Vl.populateList();
 
     var index = 0;
 
     Vl.displayEntry(index);
 
-    document.querySelector('#to-list').addEventListener('click', Vl.goToList);
+    //document.querySelector('#to-list').addEventListener('click', Vl.goToList);
     document.querySelector('#to-random').addEventListener('click', Vl.goToRandom);
     document.querySelector('#card .j').addEventListener('click', Vl.showRuby);
     document.querySelector('#card .r').addEventListener('click', Vl.showRuby);
     document.querySelector('#to-prev').addEventListener('click', Vl.goToPrev);
-    document.querySelector('#to-next').addEventListener('click', Vl.goToNext);
+    document.querySelector('#to-next').addEventListener('click', Vl.showRuby);
   };
 
   //

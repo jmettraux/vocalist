@@ -87,15 +87,19 @@ body {
 }
 #to-list {
   display: inline-block;
-  width: 65%;
+  width: 55%;
   height: 3em;
   cursor: pointer;
+  -webkit-user-select: none;
+  user-select: none;
 }
 #to-random {
   display: inline-block;
-  width: 25%;
+  width: 35%;
   height: 3em;
   cursor: pointer;
+  -webkit-user-select: none;
+  user-select: none;
 }
 
 #foot {
@@ -106,11 +110,15 @@ body {
   width: 25%;
   height: 9em;
   cursor: pointer;
+  -webkit-user-select: none;
+  user-select: none;
 }
 #to-next {
   display: inline-block;
   width: 65%;
   height: 9em;
   cursor: pointer;
+  -webkit-user-select: none;
+  user-select: none;
 }
 
