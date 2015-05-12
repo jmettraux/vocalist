@@ -26,21 +26,23 @@ var Vl = (function() {
     return e;
   };
 
-//  this.populateList = function() {
-//
-//    var list = document.getElementById('list');
-//
-//    cards.forEach(function(card, index) {
-//      var e = createElt('entry');
-//      var j = createElt('j', card[0], { 'data-vl-index': index });
-//      j.appendChild(createElt('i', '' + index));
-//      e.appendChild(j);
-//      e.appendChild(createElt('r', card[1]));
-//      e.appendChild(createElt('e', card[2]));
-//      list.appendChild(e);
-//      j.addEventListener('click', Vl.goTo);
-//    });
-//  };
+  // for list.html
+  //
+  this.populateList = function() {
+
+    var list = document.getElementById('list');
+
+    cards.forEach(function(card, index) {
+      var e = createElt('entry');
+      var j = createElt('j', card[0], { 'data-vl-index': index });
+      j.appendChild(createElt('i', '' + index));
+      e.appendChild(j);
+      e.appendChild(createElt('r', card[1]));
+      e.appendChild(createElt('e', card[2]));
+      list.appendChild(e);
+      j.addEventListener('click', Vl.goTo);
+    });
+  };
 
   var goTo = function(ev, inc) {
 
