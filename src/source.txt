@@ -2740,3 +2740,78 @@ transformation, variation, metamorphosis, modification, variety
 治療
 ちりょう
 medical treatment, cure, therapy
+商品
+しょうひん
+commodity, goods, stock, merchandise, product
+商業
+しょうぎょう
+commerce, trade, business
+商店
+しょうてん
+shop, small store, business, firm
+商売
+しょうばい
+trade, business, commerce, transaction, occupation
+個々
+ここ
+individual, one by one, separate
+個人
+こじん
+individual, private person, personal, private
+個別
+こべつ
+discrete, individual, separate, particular case
+相当
+そうとう
+befitting, proportionate, suitable; considerable, substantial; extremely, considerably
+外相
+がいしょう
+foreign minister
+相手
+あいて
+companion, partner; other party; opponent
+首相
+しゅしょう
+prime minister, chancellor, premier
+相変わらず
+あいかわらず
+as ever, as usual, the same, still
+相撲
+すもう
+sumo
+交換
+こうかん
+exchange, interchange, switching, reciprocity
+交際
+こうさい
+company, friendship, association, acquaintance
+交通機関
+こうつうきかん
+transportation facilities
+交流
+こうりゅう
+(cultural) exchange, interchange, mingling, (social) networking; ac
+有効
+ゆうこう
+validity, legality, availability, effectiveness
+効く
+きく
+to be effective, to show effect; to do its work; to be possible to use
+効果
+こうか
+effect, effectiveness, efficacy, result; special effects
+効き目
+ききめ
+effect, virtue, efficacy, impression
+期限
+きげん
+term, period, time frame; time limit, deadline
+限界
+げんかい
+limit, bound
+限度額
+げんどがく
+credit limit (credit card)
+限り
+がぎり
+suffix: as long as, only; limit, bounds; degree, scope
