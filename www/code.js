@@ -95,6 +95,11 @@ var Vl = (function() {
     card.setAttribute('data-vl-index', index);
   };
 
+  this.toJisho = function(ev) {
+
+    window.location.href = 'http://jisho.org/search/' + ev.target.textContent;
+  };
+
   this.ready = function() {
 
     //Vl.populateList();
@@ -105,8 +110,9 @@ var Vl = (function() {
 
     //document.querySelector('#to-list').addEventListener('click', Vl.goToList);
     document.querySelector('#to-random').addEventListener('click', Vl.goToRandom);
-    document.querySelector('#card .j').addEventListener('click', Vl.showRuby);
+    document.querySelector('#card .j').addEventListener('click', Vl.toJisho);
     document.querySelector('#card .r').addEventListener('click', Vl.showRuby);
+    document.querySelector('#card .e').addEventListener('click', Vl.showRuby);
     document.querySelector('#to-prev').addEventListener('click', Vl.goToPrev);
     document.querySelector('#to-next').addEventListener('click', Vl.showRuby);
   };
