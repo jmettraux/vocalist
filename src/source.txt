@@ -3094,3 +3094,93 @@ extension, elongation, prolongation, lengthening
 延ばす
 のばす
 to prolong, to delay
+断水
+だんすい
+water outage
+横断
+おうだん
+crossing (the road); crossing (a region)
+断定
+だんてい
+conclusion, decision
+断る
+ことわる
+to refuse, to reject, to turn down; to tell in advance; to excuse oneself
+水道管
+すいどうかん
+water pipe
+保管
+ほかん
+charge, custody, safekeeping, deposit, storage
+管理
+かんり
+control, management, supervision
+管
+くだ
+pipe, tube
+日記
+にっき
+diary, journal
+記号
+きごう
+symbol, code, sign, notation
+記者
+きしゃ
+reporter
+記す
+しるす
+to write down, to note, to jot down
+記入
+きにゅう
+entry, filling in of a form
+下記
+かき
+the following, what's written below
+記事
+きじ
+article, news story, report, account
+迷惑
+めいわく
+trouble, bother, annoyance, spam
+迷う
+まよう
+to lose one's way; to waver, to hesitate, to be perplexed
+迷信
+めいしん
+superstition, superstitious belief
+迷子
+まいご
+lost child
+協力
+きょうりょく
+cooperation, collaboration
+協会
+きょうかい
+association, society, organization
+協定
+きょうてい
+arrangement, pact, agreement
+願書
+がんしょ
+written application, petition, application form
+願う
+ねがう
+to desire, to wish, to hope; to beg, to request, to implore
+平成
+へいせい
+Heisei era
+平気
+へいき
+coolness, calmness, composure, unconcern; all right, okay
+平ら
+たいら
+flatness, level, smooth, clam, plain
+平日
+へいじつ
+weekday, ordinary days (non-holiday)
+平等
+びょうどう
+equality, impartiality, evenness
+平仮名
+ひらがな
+hiragana
