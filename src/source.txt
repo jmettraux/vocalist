@@ -3184,3 +3184,69 @@ equality, impartiality, evenness
 平仮名
 ひらがな
 hiragana
+減る
+へる
+to decrease (in size or number), to diminish, to abate
+破壊
+はかい
+destruction, disruption; application crash; subversion
+知識
+ちしき
+knowledge, information
+姿勢
+しせい
+attitude, posture, stance, approach
+考え
+かんがえ
+thinking, thought, view, opinion; idea, notion; intention, plan
+迫る
+せまる
+to approach, to draw near, to be imminent; to press (smone), to urge
+維持
+いじ
+maintenance, preservation, improvement
+環境
+かんきょう
+environment, circumstance
+保護
+ほご
+care, protection, shelter, safeguard, favor, patronage
+重要
+じゅうよう
+important, momentous, essential, principal
+謙虚
+けんきょ
+modesty, humility
+批判
+ひはん
+criticism, judgement, comment
+背景
+はいけい
+background, scenery, backdrop, setting; backing, support
+距離
+きょり
+distance, range
+与える
+あたえる
+to give, to grant, to confer; to provide, to afford; to assign; to cause
+異なる
+ことなる
+to differ, to vary, to disagree
+知識
+ちしき
+knowledge, information
+評判
+ひょうばん
+fame, reputation, popularity; rumor, talk
+救う
+すくう
+to rescue from, to help out of, to save
+展開
+てんかい
+development, evolution, progress; expansion, spreading out, building up
+経営者
+けいえいしゃ
+manager, propietor　
+根源
+こんげん
+root, source, origin, foundation, base, principle
