@@ -3250,3 +3250,84 @@ manager, propietor　
 根源
 こんげん
 root, source, origin, foundation, base, principle
+結果
+けっか
+result, consequence, outcome, effect; coming to fruition, bearing fruit; corollary
+結ぶ
+むすぶ
+to tie, to bind, to link; to bear fruit; to close (deal), to confirm; to connect, to ally
+結局
+けっきょく
+after all, eventually, in the end
+効果
+こうか
+effect, effectiveness, result; effects (sound/visual)
+果物
+くだもの
+fruit
+果実
+かじつ
+fruit, nut, berry
+果たす
+はたす
+to accomplish, to achieve, to carry out; to do completely
+開封
+かいふう
+opening (envelope/parcel), breaking the seal
+同封
+どうふう
+enclosure, enclosing in a letter
+封書
+ふうしょ
+sealed letter
+方法
+ほうほう
+method, process, manner, way, means, technique
+作法
+さほう
+manners, etiquette, propriety; manner of production (poetry), way of making
+文法
+ぶんぽう
+grammar, syntax
+法人
+ほうじん
+legal person, corporate body, juridical person
+各駅
+かくえき
+every station
+各地
+かくち
+every place, various places
+各自
+かくじ
+individual, each
+一位
+いちい
+first place, first rank
+各位
+かくい
+everyone, each and every one of you; ladies and gentlemen
+地位
+ちい
+social position, status
+位
+くらい
+grade, level, tier, rank; digit; degree, extent, amount
+異人
+いじん
+foreigner (european); different person
+異国
+いこく
+foreign country
+異常な
+いじょうな
+strange, abnormal, disordered
+異変
+いへん
+unusual phenomenon, unusual event, abnormal event, accident
+同音異義語
+どうおんいぎご
+homonym
+異なる
+ことなる
+to differ, to vary, to disagree
