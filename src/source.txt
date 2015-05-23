@@ -3391,3 +3391,39 @@ field, cultivated land, vegetable plot, kitchen garden; field of specialization;
 花畑
 はなばたけ
 flower garden, flower bed
+昨年
+さくねん
+last year
+昨日
+きのう
+yesterday
+翌日
+よくじつ
+the next day
+翌月
+よくげつ
+the following month
+翌朝
+よくあさ
+the next morning
+軒
+けん
+counter for buidlings (esp houses); suffix for a pen/stage name
+中毒
+ちゅうどく
+poisoning, addiction
+気の毒
+きのどく
+pitiful, unfortunate, (a) pity
+消毒
+しょうどく
+disinfection, sterilization
+涙
+なみだ
+tears; sympathy
+笑う
+わらう
+to laugh; to smile; to sneer, to ridicule
+笑顔
+えがお
+smiling face, smile
