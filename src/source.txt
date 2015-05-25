@@ -3478,3 +3478,84 @@ to desire; to wish for, to expect; to see, to command (a view of)
 望遠鏡
 ぼうえんきょう
 telescope
+申請
+しんせい
+application, request, petition
+申し込み
+もうしこみ
+application, entry, request, subscription, offer, proposal, overture, challenge
+申す
+もうす
+to say, to be called (humble)
+申し上げる
+もうしあげる
+to say, to tell, to state, to express, to offer (humble)
+姓
+せい
+surname, family name; hereditary title (ancient Japan)
+姓名
+せいめい
+full name
+年齢
+ねんれい
+age, years
+高齢
+こうれい
+advanced (old) age
+男性
+だんせい
+man, male; masculine gender
+性別
+せいべつ
+sex, gender, distinction by sex
+安全性
+あんぜんせい
+safety, security
+女性
+じょせい
+woman, female; feminine gender
+性質
+せいしつ
+nature, property, disposition
+可能性
+かのうせい
+potentiality, likelihood, possibility, availability
+お宅
+おたく
+your house/home/family (honorific, respectful); your husband; your organization; you
+住宅
+じゅうたく
+residence, housing, residential building
+自宅
+じたく
+one's home
+帰宅
+きたく
+returning home
+勤務
+きんむ
+service, duty, work
+通勤
+つうきん
+commuting to work
+出勤
+しゅっきん
+attendance (at work), being at work, presence (in the office), reporting for work
+勤める
+つとめる
+to work for, to be employed at, to serve in; to serve as, to act as
+全部
+ぜんぶ
+all, entire, whole, altogether
+部長
+ぶちょう
+head of section/dept; head of school club/team
+部屋
+へや
+room, apartment, flat, chamber; (sumo) stable
+部分
+ぶぶん
+portion, section, part
+学部
+がくぶ
+dept/faculty of a university; undergraduate (course/program)
