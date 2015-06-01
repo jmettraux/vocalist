@@ -3811,3 +3811,60 @@ to pray, to wish
 祈り
 いのり
 prayer, supplication
+幸福
+こうふく
+happiness, blessedness, joy, well-being
+福祉
+ふくし
+welfare, well-being, social welfare, social security/service
+拝見
+はいけん
+seeing, looking at (humble)
+謙譲語
+けんじょうご
+humble language
+丁寧語
+ていねいご
+polite language
+参拝者
+さんぱいしゃ
+worshipper, visitor (to a shrine/temple), pilgrim
+拝借
+はいしゃく
+borrowing (humble)
+拝む
+おがむ
+to pay one's respect; to beg, to make a supplication; to see (sthing or sone of high status)
+打者
+だしゃ
+batter/hitter (baseball)
+打つ
+うつ
+to hit, to strike, to knock; to beat (rhythmically); to move, to impress, to touch; ...
+打ち合わせ
+うちあわせ
+advance arrangements, preparatory meeting, briefing session; overlap (coat, etc)
+伺う
+うかがう
+to ask, to inquire, to hear, to be told; to implore (god for oracle), to seek direction (from superior); to visit (humble)
+幸運
+こううん
+good luck, fortune
+幸せ
+しあわせ
+happiness, good fortune, luck, blessing
+不幸
+ふこう
+unhappiness, sorrow, misfortune, disaster, accident, death
+幸い
+さいわい
+happiness, blessedness, luck, fortune, felicity; luckily, fortunately
+失望
+しつぼう
+disappointment, dispair
+失業
+しつぎょう
+unemployment
+失う
+うしなう
+to lose, to part with
