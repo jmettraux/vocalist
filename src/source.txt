@@ -4282,3 +4282,96 @@ railway bridge, iron bridge
 架け橋
 かけはし
 suspension bridge, viaduct, temporary bridge; mediation, go-between
+憎い
+にくい
+hateful, abominable, poor-looking, detestable
+憎しみ
+にくしみ
+hatred
+憎む
+にくむ
+to hate, to detest
+憎らしい
+にくらしい
+odious, hateful
+自殺
+じさつ
+suicide
+殺す
+ころす
+to kill
+悲観
+ひかん
+pessimism, disappointment
+観光
+かんこう
+sightseeing, tourism
+悲しい
+かなしい
+sad, sorrowful
+寂しいい
+さびしい
+lonely, lonesome, solitary, desolate
+悲しむ
+かなしむ
+to be sad, to mourn for, to regret
+恥
+はじ
+shame, embarrassment, disgrace
+恥ずかしい
+はずかしい
+shy, ashamed, embarrassed; disgraceful, shameful
+感じる
+かんじる
+to feel, to sense, to experience
+感心
+かんしん
+admiration, "well done!"
+感情
+かんじょう
+emotion, feeling, feeling, sentiment
+感動
+かんどう
+deep emotion, excitement, passion, impression
+地球
+ちきゅう
+earth, globe
+野球
+やきゅう
+baseball
+電球
+でんきゅう
+light bulb
+球
+たま
+sphere, ball; counter for balls (baseball)
+平和
+へいわ
+peace, harmony
+和式
+わしき
+japanese style
+愛
+あい
+love, affection, care; attachment, craving, desire
+愛情
+あいじょう
+love, affection
+愛する
+あいする
+to love
+恋愛
+れんあい
+love, love-making, passion, emotion, affections; romance
+仲
+なか
+relation, relationship
+仲間
+なかま
+company, fellow, colleague, associate, comrade, mate, group, circle of friends, partner; member of the same category
+改良
+かいりょう
+improvement, reform
+良い
+よい
+good
