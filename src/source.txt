@@ -4375,3 +4375,87 @@ improvement, reform
 良い
 よい
 good
+腹痛
+ふくつう
+stomach ache, abdominal pain
+背中
+せなか
+back (of body)
+呼吸
+こきゅう
+breath, respiration; knack, trick, secret (way)
+吸収
+きゅうしゅう
+absorption, suction, attraction
+吸う
+すう
+to smoke, to breathe, to inhale; to duck, to sip; to absorb, to soak up
+休息
+きゅうそく
+rest, relief, relaxation
+息
+いき
+breath, breathing; tone, mood
+息子
+むすこ
+son
+高血圧
+こうけつあつ
+high blood pressure, hypertension
+血
+ち
+blood; consanguinity
+圧力
+あつりょく
+pressure, stress; coercion, arm-twisting
+心臓
+しんぞう
+heart; guts, nerve; central part
+内臓
+ないぞう
+internal organs, intestines, viscera
+血液
+けつえき
+blood
+耳鼻科
+じびか
+otolaryngology: ear, nose and threat
+鼻
+はな
+nose
+鼻水
+はなみず
+nasal mucus, dripping nose
+睡眠
+すいみん
+sleep
+眠い
+ねむい
+sleepy, drowsy, somnolent
+眠る
+ねむる
+to sleep (not necessarily lying down); to die (hira)
+居眠り
+いねむり
+dozing, nodding off (while sitting)
+食欲
+しょくよく
+appetite (for food)
+欲張り
+よくばり
+avarice, covetousness, greed
+欲しい
+ほしい
+wanted, wished for, in need of, desired
+疲れる
+つかれる
+to get tired, to tire; to be worn out (objects)
+胃
+い
+stomach
+胃腸
+いちょう
+stomach, gastrointestine
+胸
+むね
+chest, breast; bosom, bust; heart; lungs; heart, mind, feelings
