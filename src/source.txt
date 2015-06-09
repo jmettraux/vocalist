@@ -4459,3 +4459,78 @@ stomach, gastrointestine
 胸
 むね
 chest, breast; bosom, bust; heart; lungs; heart, mind, feelings
+傾向
+けいこう
+tendency, trend, inclination
+傾く
+かたむく
+to incline toward, to slant, to lurch; to go down (sun), to wane, to sink, to decline
+傾ける
+かたむける
+to incline, to lean, to tip, to tilt; to concentrate on, to pour energy into; to ruin, to squander
+横転
+おうてん
+toppling sideways, falling over sideways; barrel roll
+横
+よこ
+horizontal (not vertical), lying down; side-to-side, width, breadth; side (of a box); beside, aside, next to
+横断歩道
+おうだんほどう
+pedestrian crossing
+熱湯
+ねっとう
+boiling water
+湯飲み
+ゆのみ
+teacup
+湯呑茶碗
+ゆのみぢゃわん
+teacup
+湯
+ゆ
+hot water; hot water, hot spring; molten iron
+湯気
+ゆげ
+steam, vapour
+恐怖
+きょうふ
+fear, dread, dismay, terror, horror, scare, panic
+恐れ
+おそれ
+fear, horror, anxiety, concern, uneasiness
+恐ろしい
+おそろしい
+terrible, dreadful, terrifying, frightening, frightened; surprising, startling, tremendous, amazing
+恐れ入ります
+おそれいります
+I beg your pardon
+恐れながら
+おそれながら
+let me humbly say, with all due respect
+原料
+げんりょう
+raw materials
+野原
+のはら
+field
+原産
+げんさん
+place of origin, habitat
+原因
+げんいん
+cause, origin, source
+要因
+よういん
+main cause, primary factor
+位置
+いち
+place, situation, position, location; position (vector)
+置く
+おく
+to put, to place; to leave (behind); to set up, to establish; to put down and stop using a tool
+装置
+そうち
+equipment, installation, apparatus, device
+物置
+ものおき
+storage room, storeroom, lumber room
