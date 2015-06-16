@@ -4789,3 +4789,96 @@ telephone/graph pole, lightpole, utility pole
 柱
 はしら
 pillar, post; support, prop, mainstay; column; counter for buddhas, gods, nobles
+非常
+ひじょう
+emergency; extraordinary, unusual
+非常口
+ひじょうぐち
+emergency exit
+常に
+つねに
+always, constantly
+中略
+ちゅうりゃく
+omission (of part of a text), ellipsis
+接客
+せっきゃく
+serving customers, looking after visitors, reception
+直接
+ちょくせつ
+direct, immediate, personal, firsthand
+応対者
+おうたいしゃ
+reception people
+従業員
+じゅうぎょういん
+employee, worker
+事情
+じじょう
+circumstances, consideration, conditions, situation, reasons, state of affairs
+情報
+じょうほう
+information, news, intelligence, advices; data, signal, code
+晴れ
+はれ
+clear weather, fine weather; formal, ceremonial, public; cleared of suspicion
+立心偏
+りっしんべん
+kanji "heart" left radical
+同情
+どうじょう
+sympathy, compassion, sympathize, pity, feel for
+清い
+きよい
+clear, pure, noble
+青
+あお
+blue, green; green light; black (horse coat color); immature, unripe, young
+青年
+せいねん
+youth, young man
+見つける
+みつける
+to discover, to find, to come across, to detect; to locate; to find fault
+見つかる
+みつかる
+to be found, to be discovered
+巣
+す
+nest
+単に
+たんに
+simply, merely, only, solely
+加減
+かげん
+degree, extent, just right amount of; condition, state of health; adjustment, moderation
+縦
+たて
+the vertical, height; front-to-back, length; north-to-south; (weaving) warp
+細い
+ほそい
+thin, slender, fine
+細かい
+こまかい
+small; fine, minute; minor, trivial; sensitive, attentive
+示す
+しめす
+to (take out and) show, to demonstrate; to point out; to indicate, to signify
+黄金色
+こがねいろ
+golden, gold-colored, honey-colour
+環境
+かんきょう
+environment, circumstance
+紅葉
+こうよう
+autumn colours; leaves turning red/yellow
+保護色
+ほごしょく
+protective coloration, camouflage
+認識
+にんしき
+recognition, knowledge, realization, awareness, perception
+私自身
+わたしじしん
+myself
