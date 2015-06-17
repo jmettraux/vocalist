@@ -4882,3 +4882,72 @@ recognition, knowledge, realization, awareness, perception
 私自身
 わたしじしん
 myself
+防虫剤
+ぼうちゅうざい
+insect repellent; mothball
+虫
+むし
+insect, bug, cricket, moth, worm
+殺虫剤
+さっちゅうざい
+insecticide; pesticide
+虫歯
+むしば
+cavity, tooth decay, caries
+歯科
+しか
+dentistry
+歯医者
+はいしゃ
+dentist
+歯周病
+ししゅうびょう
+periodontal disease; periodontis
+歯車
+はぐるま
+gear, cog-wheel
+予防
+よぼう
+prevention, precaution, protection against
+防止
+ぼうし
+prevention, check
+消防
+しょうぼう
+fire fighting, fire department
+防ぐ
+ふせぐ
+to defend (against), to protect, to prevent
+磨く
+みがく
+to polish, to shine, to brush; to refine, to improve
+歯磨き
+はみがき
+dental brushing, brushing one's teeth; dentifrice, toothpaste, tooth powder
+抜群
+ばつぐん
+preeminence, distinction, extrordinariness; outstanding, excellent, exceptional
+抜く
+ぬく
+to extract, to omit, to draw out, to unplug; to surpass, to overtake
+抜ける
+ぬける
+to come out, to fall out; to fade, to discolor; to leave (meeting); to exit (program loop)
+追い抜く
+おいぬく
+to pass (a car), to overtake; to surpass, to outstrip, to outdistance; to leave behind
+悩む
+なやむ
+to be worried, to be troubled
+悩み
+なやみ
+trouble, worry, distress, sorrow, anguish, problem
+髪
+かみ
+hair
+髪の毛
+かみのけ
+hair (head)
+白髪
+しらが
+white hair, grey hair
