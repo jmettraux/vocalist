@@ -4951,3 +4951,72 @@ hair (head)
 白髪
 しらが
 white hair, grey hair
+名刺
+めいし
+business card
+刺す
+さす
+to pierce, to stab, to prick; to sting, to bite; to sew, to stitch
+刺さる
+ささる
+to get stuck, to be pierced
+刺激
+しげき
+stimulus, impetus, incentive, encouragement, motivation, provocation, excitement, thrill
+肩
+かた
+shoulder
+肩書
+かたがき
+title, degree, address (on letter), criminal record
+腰痛
+ようつう
+lower back pain, hip pain, lumbago
+腰
+こし
+back, lower back, waist, hips, lumbar region; body (of har, noodle, ...), resilience, spring
+腰掛ける
+こしかける
+to sit (down)
+腰掛け
+こしかけ
+seat, bench
+関節
+かんせつ
+joints (knee, elbow, ...)
+節約
+せつやく
+economising, saving, thrift
+調節
+ちょうせつ
+regulation, adjustment, control
+節
+ふし
+joint, knuckle; tune, melody; knot (wood), node in a bamboo stem; part, notable characteristic
+神話
+しんわ
+myth, legend
+神道
+しんとう
+Shintou
+神経
+しんけい
+nerve; nerves, sensitivity
+神社
+じんじゃ
+shintou shrine
+神様
+かみさま
+god
+頭痛
+ずつう
+headache
+痛い
+いたい
+painful, sore; exceeding
+苦痛
+くつう
+pain, agony, bitterness
+痛む
+いたむ
+to hurt, to feel pain; to be injured, to be spoiled (eg food)
