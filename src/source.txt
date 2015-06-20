@@ -5077,3 +5077,81 @@ to break, to be broken, to snap, to fracture; to be folded; to give in; (int)
 折る
 おる
 to break, to fracture, to pick (flowers); to fold, to bend; (trans)
+賞
+しょう
+prize, award
+賞品
+しょうひん
+prize, trophy
+商品
+しょうひん
+commodity, article of commerce, goods, stock, merchandise
+賞金
+しょうきん
+prize, monetary award
+賞味期限
+しょうみきげん
+best before date (food), sell-by date; shelf life
+金庫
+きんこ
+safe, strongbox, cashbox, vault, strongroom; depository, cash office, treasury
+冷蔵庫
+れいぞうこ
+refrigerator
+車庫
+しゃこ
+garage, car shed, carport
+製造
+せいぞう
+manufacture, production
+造る
+つくる
+to make, to produce, to manufacture, to build, to construct; ...
+改造
+かいぞう
+remodelling, restructuring; conversion, adaptation
+費用
+ひよう
+cost, expense
+消費
+しょうひ
+consumption, expenditure
+消費税
+しょうひぜい
+consumption tax (incl sales tax, VAT, excise duty, ...)
+可
+か
+passable, acceptable, tolerable, fair
+可愛い
+かわいい
+cute, adorable, charming, lovely, pretty
+可能
+かのう
+potential, possible, practicable, feasible
+不可
+ふか
+wrong, bad, improper, unjustifiable, inadvisable; not allowed, not possible; failing grade
+可決
+かけつ
+approval, adoption (motion, bill), passage
+秒
+びょう
+second
+自身
+じしん
+by oneself, personally
+身体
+しんたい
+body; torso, trunk; build, physique, constitution; health; corpse
+中身
+なかみ
+contents, interior, substance, filling, (sword) blade
+出身
+しゅっしん
+person's origin
+身長
+しんちょう
+height (of body), stature
+刺し身
+さしみ
+sashimi
