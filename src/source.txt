@@ -5269,3 +5269,162 @@ backdoor, rear entrance
 裏表
 うらおもて
 both sides; wrong side out; double-dealing, two faces
+文学
+ぶんがく
+literature
+夫婦
+ふうふ
+married couple, spouses, husband and wife, couple; pair of object (one for man, one for woman)
+夫
+おっと
+husband
+辞める
+やめる
+to resign, to retire, to quit, to leave (one's job)
+貯金
+ちょきん
+putting money aside, savings, deposit; wins in the bank (baseball)
+嫌い
+きらい
+dislike, hate; suspicion, tendency, smack (of); distinction, discrimination
+状況
+じょうきょう
+state of affairs (around you), situation, circumstances
+理由
+りゆう
+reason, pretext, motive
+材料
+ざいりょう
+ingredients, material
+正直
+しょうじき
+honesty, integrity, frankness; honestly, frankly
+計画
+けいかく
+plan, project, schedule, scheme, program
+両方
+りょうほう
+both, both sides, both parties
+重視
+じゅうし
+importance, stress, serious consideration
+重視する
+しゅうしする
+to take sthing seriously; to attach importance; to stress
+時期
+じき
+time, season, period, phase, stage
+知識
+ちしき
+knowledge, information
+織る
+おる
+to weave
+無職
+むしょく
+without an occupation
+職場
+しょくば
+post, place of work, workplace
+背景
+はいけい
+background, scenery, backdrop, setting, circumstance, context; backing, support
+科学
+かがく
+science
+芸術
+げいじゅつ
+fine arts, the arts, art
+授業
+じゅぎょう
+lesson, class work, teaching, instruction
+取扱い
+とりあつかい
+treatment, service, handling, management
+客観的な
+きゃっかんてきな
+objective
+妨げる
+さまたげる
+to disturb, to prevent, to obstruct, to hinder
+障害
+しょうがい
+obstacle, impediment, hindrance, difficulty, barrier; handicap, impairment, disability, disorder, malfunction
+参考
+さんこう
+reference, consultation
+思考力
+しこうりょく
+ability to think
+要求
+ようきゅう
+demand, firm request, requisition, requirement, desire
+位置
+いち
+place, situation, position, location; position (vector)
+接する
+せっする
+to touch, to come in contact with; to receive (visitor); to get, to hear; to encounter
+形式的
+けいしきてき
+formal
+頼る
+たよる
+to rely on, to have recourse to, to depend on
+頼む
+たのむ
+to request, to beg, to ask; to call, to order, to reserve; to rely on
+評論
+ひょうろん
+criticism, critique
+教養書
+きょうようしょ
+writing about cultivation/refinement/culture/education
+栄養
+えいよう
+nutrition, nourishment
+問う
+とう
+to ask, to inquire; to charge (with a crime), to accuse
+一言
+ひとこと
+single word, a few words, brief comment
+特徴
+とくちょう
+feature, trait, characteristic, peculiarity, distinction
+特性
+とくせい
+special characteristic, special quality, trait, idiosyncrasy, peculiarity
+分析
+ぶんせき
+analysis
+得意
+とくい
+triumph, prosperity; pride; one's strong point/forte/specialty
+積極的な
+せっきょくてきな
+assertive, positive, active, proactive
+評価
+ひょうか
+valuation, estimation, assessment, evaluation, rating
+処理
+しょり
+processing, dealing with, treatment, disposition; disposal
+優れた
+すぐれた
+great, excellent
+充実
+じゅうじつ
+fullness, completion, perfection, substantiality; enhancement, improvement, enrichment; replenishment
+成長
+せいちょう
+growth, grow to adulthood
+業績
+ぎょうせき
+achievement, performance, results, work, contribution
+明らか
+あきらか
+obvious, evident, clear, plain
+主役
+しゅやく
+leading part, leading actor, leading actress
