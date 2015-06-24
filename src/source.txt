@@ -5428,3 +5428,96 @@ obvious, evident, clear, plain
 主役
 しゅやく
 leading part, leading actor, leading actress
+交差点
+こうさてん
+crossing, intersection
+差
+さ
+difference, variation
+差別
+さべつ
+discrimination, distinction, differentiation
+差出人
+さしだしにん
+sender
+差す
+さす
+to shine; to be visible; to hold up (umbrella), to put up, to raise
+人差し指
+ひとさしゆび
+index finger
+接続
+せつぞく
+connection, attachment, union, join, joint, link; changing trains; conjuction
+続く
+つづく
+to continue, to last, to go on; to occur again and again; to lead to; (intransitive)
+継続
+けいぞく
+continuation
+手続き
+てつづき
+procedure, (legal) process, formalities
+辞書
+じしょ
+dictionary, lexicon
+辞表
+じひょう
+letter of resignation
+表
+おもて
+surface, face (visible side); front; outside, exterior; appearance; public
+辞典
+じてん
+dictionary
+辞める
+やめる
+to resign, to retire, to quit, to leave (one's job)
+画面
+がめん
+terminal screen, scene, field (in TV), photo
+正面
+しょうめん
+front, frontage, facade, main
+方面
+ほうめん
+direction, district, area; field (of study)
+面積
+めんせき
+square measure, size (of land), area, surface
+操作
+そうさ
+operation, management, processing; manipulating to one's benefit
+操作する
+そうさする
+to operate; to manipulate, to fiddle (eg the books)
+体操
+たいそう
+gymnastics, physical exercises, calisthenics
+実行
+じっこう
+practice, performance, execution, realization, implementation
+事実
+じじつ
+fact, truth, reality
+実
+み
+fruit, nut; seed; content, substance
+実験
+じっけん
+experiment
+実る
+みのる
+to bear fruit, to ripen
+列
+れつ
+queue, line, row, column, sequence, string, train
+列車
+れっしゃ
+train (ordinary)
+行列
+ぎょうれつ
+line, queue, procession, parade; matrix (math)
+列島
+れっとう
+archipelago, chain of islands
