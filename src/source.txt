@@ -5521,3 +5521,72 @@ line, queue, procession, parade; matrix (math)
 列島
 れっとう
 archipelago, chain of islands
+得
+とく
+profit, advantage, benefit, gain
+得る
+える
+to get, to earn, to acquire, to procure, to gain; to understand, to comprehend
+納得
+なっとく
+consent, assent, agreement; understanding, comprehension, grasp
+心得る
+こころえる
+to know, to understand, to be aware of, to take for; to consent, to agree
+広告
+こうこく
+advertisement, advertising
+警告
+けいこく
+warning, advice
+報告
+ほうこく
+report, information
+告げる
+つげる
+to tell, to inform, to announce; to indicate, to signal, to mark
+税金
+ぜいきん
+tax, duty
+税関
+ぜいかん
+customs, customs house
+消費税
+しょうひぜい
+consumption tax; value added tax
+課税
+かぜい
+taxation
+定価
+ていか
+list price, regular price, established price
+物価
+ぶっか
+prices (in general), cost of living; price index
+価格
+かかく
+price, value, cost
+性格
+せいかく
+character, personality, disposition, nature
+超高い
+ちょうたかい
+ultra high
+超える
+こえる
+to cross over, to cross, to pass through, to pass over; to exceed
+超過
+ちょうか
+excess, being more than
+超す
+こす
+to cross over (mountains), to go across; to pass time (a winter); to surpass, to be better than
+平均
+へいきん
+average, mean; balance, equilibrium
+均一
+きんいつ
+uniformity, equality
+均等
+きんとう
+equality, uniformity, evenness
