@@ -5590,3 +5590,78 @@ uniformity, equality
 均等
 きんとう
 equality, uniformity, evenness
+靴
+くつ
+shoes, boots, footwear, footgear
+長靴
+ながくつ
+leather/rubber boots, long boots, high boots, wellingtons
+靴下
+くつした
+socks, stockings
+雨靴
+あまぐつ
+waterproof shoes, rubber boots, "rain shoes"
+提供
+ていきょう
+offer, tender, sponsor, furnish, provision, supply
+子供
+こども
+child, children
+印象
+いんしょう
+impression
+対象
+たいしょう
+target, object (of worship, of study), subject (of taxation, ...)
+現象
+げんしょう
+phenomenon
+象
+ぞう
+elephant
+組織
+そしき
+organization; structure, construction; tissue; system
+組み合わせ
+くみあわせ
+combination
+番組
+ばんぐみ
+program (tv)
+組合
+くみあい
+association, union, guild
+価値
+かち
+value, worth, merit
+値段
+ねだん
+price, cost
+数値
+すうち
+numerical value, numerics; reading (on a meter)
+値
+あたい
+price, cost; value, worth, merit; value, count, number; variable (comp)
+募集
+ぼしゅう
+recruiting, selection, taking applications; raising, collection; flotation (shares, loans, etc)
+募金
+ぼきん
+fund raising/collection
+応募
+おうぼ
+application, subscription, entry (competition, raffle), enlistment
+募る
+つのる
+to grow violent, to become stronger; to invite contributions, to solicit help/participation, to recruit (soldiers)
+無料
+むりょう
+free, no charge; gratis
+無事
+ぶじ
+safety, piece, quietness; unharmed, safe
+有無
+うむ
+existence or non-existence; presence or absence; consent or refusal, yes or no; flag indicator, presence marker (comp)
