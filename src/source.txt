@@ -5830,3 +5830,72 @@ disposal, dealing (with a problem), disposition, measure, procedure; punishment;
 処置
 しょち
 treatment, measure, step
+温泉
+おんせん
+hot spring, spa, onsen
+泉
+いずみ
+spring, fountain
+宿題
+しゅくだい
+homework
+宿
+やど
+lodging, inn, hotel; house, home, dwelling
+下宿
+げしゅく
+boarding, lodging, boarding house
+季節
+きせつ
+season
+冬季
+とうき
+(season of) winter
+四季
+しき
+four seasons
+春夏秋冬
+しゅんかしゅうとう
+spring, summer, fall and winter; the four seasons
+豊作
+ほうさく
+abundant harvest, bumper crop
+豊かな
+ゆたかな
+abundant, wealthy, plentiful, rich, affluent; very, extremely, full of, great
+豊富
+ほうふ
+abundance, wealth, plenty, bounty
+富む
+とむ
+to be rich, to become rich, to be abundant (with), to be rich (in)
+富
+とみ
+riches, wealth, fortune; resources; lottery
+富士山
+ふじさん
+Fujisan
+送迎
+そうげい
+seeing off and meeting on return
+送迎車
+そうげいしゃ
+courtesy car (at a hotel)
+迎える
+むかえる
+to go out to meet; to receive, to welcome, to greet; to accept (as a member); to call for, to summon, to invite; to approach (a time, a point in life)
+歓迎
+かんげい
+welcome, reception
+出迎え
+でむかえ
+meeting, reception; go out to meet/receive
+泊まる
+とまる
+to stay at (eg hotel); to be docked/berthed/moored
+三泊
+さんぱく
+three nights stay
+宿泊
+しゅくはく
+lodging
