@@ -5749,3 +5749,84 @@ speech, address; public speaking
 小説
 しょうせつ
 novel, (short) story
+菓子
+かし
+pastry, confectionery; sweets
+和菓子
+わがし
+wagashi, traditional Japanese confectionery
+洋菓子
+ようがし
+western confectionery
+贈り物
+おくりもの
+present, gift
+贈る
+おくる
+to give (as a gift), to present; to confer, to bestow, to award
+帰省
+きせい
+homecoming, returning home
+外務省
+がいむしょう
+ministry of foreign affairs
+省く
+はぶく
+to omit, to leave out, to exclude, to eliminate; to curtail, to save, to cut down, to economize
+反省
+はんせい
+reflection, reconsideration, introspection, meditation, contemplation; regret, repentance, remorse; human self-reflection
+省エネ
+しょうえね
+energy conservation, economical user of energy
+省略
+しょうりゃく
+omission, abbreviation, abridgement; ellipsis
+了承
+りょうしょう
+acknowledgement, understanding (please understand), noting, acceptance
+承知
+しょうち
+knowledge, awareness; consent, acceptance, assent, admitting, compliance; agreement; forgiving, pardoning, excusing
+承認
+しょうにん
+recognition, acknowledgement, approval, consent, agreement
+承る
+うけたまわる
+to hear, to be told, to know (humble); to receive (order), to undertake, to comply, to take (reservation, etc)
+展覧会
+てんらんかい
+exhibition; art exhibition
+美術展
+びじゅつてん
+art exhibition
+展示
+てんじ
+exhibition, display
+発展
+はってん
+development, growth, advancement, unfurling; expansion, extension, enlargement; playing around, having an active sex life (gay)
+破格
+はかく
+extraordinary, special, exceptional, abnormal, unprecedented; non-standard grammatical construction, ungrammatical usage; solecism
+破片
+はへん
+fragment, splinter, broken piece
+破れる
+やぶれる
+to break, to be smashed; to split, to crack, to fissure, to be torn; to be divided, to cleave; to come to light, to be identified, to become clear
+破産
+はさん
+bankruptcy, insolvency
+破る
+やぶる
+to tear, to break, to destroy; to break through (the defense), to breach; to defeat, to beat; to shatter (dream, peace), to disturb; to violate, to break
+処理
+しょり
+processing, dealing with, treatment, disposition, disposal
+処分
+しょぶん
+disposal, dealing (with a problem), disposition, measure, procedure; punishment; putting down (diseased animal)
+処置
+しょち
+treatment, measure, step
