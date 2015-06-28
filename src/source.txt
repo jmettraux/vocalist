@@ -5899,3 +5899,84 @@ three nights stay
 宿泊
 しゅくはく
 lodging
+入居
+にゅうきょ
+moving into (house)
+居眠り
+いねむり
+noding off (while sitting), dozing
+居間
+いま
+living room (western style)
+居る
+いる
+to be (animate objects), to exist; to stay
+築十年
+ちくじゅうねん
+ten years since the construction
+１９８０年築
+１９８０ねんちく
+built in 1980
+建築
+けんちく
+construction, architecture (of building)
+三角
+さんかく
+triangle, triangular
+方角
+ほうがく
+direction, way, compass point
+角度
+かくど
+angle
+角
+かど
+corner (desk, pavement); edge
+生徒
+せいと
+pupil
+徒歩
+とほ
+walking, going on foot
+畳
+たたみ
+tatami mat, japanese straw floor coverings
+六畳
+ろくじょう
+6 mats (size of room)
+畳む
+たたむ
+to fold (clothes, umbrella), to close (shop, business); to vacate
+欧米
+おうべい
+Europe and America, the West
+新米
+しんまい
+new rice; novice, beginner, newbie, newcomer
+平米
+へいべい
+square meter
+米
+こめ
+rice
+解説
+かいせつ
+explanation, commentary, exposition, elucidation
+解放
+かいほう
+release, unleashing, liberation, emancipation; deallocation (computer mem)
+解約
+かいやく
+cancellation of contract
+解決
+かいけつ
+settlement, solution, resolution
+解散
+かいさん
+breakup, dissolution
+計算
+けいさん
+calculation, reckoning, count; forecast
+解く
+とく
+to untie, to unwrap, to undo, to unbind; to unsew; to solve, to work out; to dispel, to clear up
