@@ -6043,3 +6043,60 @@ temple; monk
 寺院
 じいん
 temple, abbey
+湾
+わん
+bay, gulf, inlet
+台湾
+たいわん
+Taiwan
+列島
+れっとう
+archipelago, chain of islands
+半島
+はんとう
+peninsula
+島
+しま
+island; territory (prostitute, organized, crime, etc), turf
+海岸
+かいがん
+coast, beach, seashore
+岸
+きし
+bank, coast, shore
+湾岸
+わんがん
+gulf coast, bay coast
+川岸
+かわぎし
+riverbank, riverside; fish market
+公園
+こうえん
+(public) park
+遊園地
+ゆうえんち
+amusement park
+動物園
+どうぶつえん
+zoo, zoological garden
+琵琶湖
+びわこ
+Lake Biwa
+湖
+みずうみ
+lake
+大阪城
+おおさかじょう
+Osaka Castle
+渓谷
+けいこく
+valley, ravine, canyon
+谷間
+たにま
+valley, ravine, chasm, dell; cleavage
+谷
+たに
+valley
+谷川
+たにがわ
+mountain stream
