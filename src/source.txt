@@ -6100,3 +6100,72 @@ valley
 谷川
 たにがわ
 mountain stream
+財産
+ざいさん
+property, fortune, assets; estate
+財布
+さいふ
+purse, handbag, wallet
+文化財
+ぶんかざい
+cultural assets, cultural property
+観光
+かんこう
+sightseeing, tourism
+観察
+かんさつ
+observation, survey
+観客
+かんきゃく
+audience, spectator
+観音
+かんのん
+Kannon, Kwannon, Goddess of Mercy
+宝石
+ほうせき
+gem, jewel, precious stone, gemstone
+国宝
+こくほう
+national treasure
+宝物館
+ほうもつかん
+museum of treasures
+宝物
+たからもの
+treasure, treasured item, prized possession
+仏教
+ぶっきょう
+buddhism
+仏
+ほとけ
+buddha, merciful person, buddhist image; the dead, dead person, spirit of the dead
+仏像
+ぶつぞう
+statue of Buddha, image of Buddha
+日仏
+にちふつ
+Japan and France
+国王
+こくおう
+king
+王女
+おうじょ
+princess
+王子
+おうじ
+prince
+女王
+じょおう
+queen
+銅
+どう
+copper (cu)
+銅像
+どうぞう
+bronze statue
+塔
+とう
+tower, steeple, spire; stupa, pagoda
+五重の塔
+ごじゅうのとう
+five-storied pagoda
