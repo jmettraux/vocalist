@@ -6169,3 +6169,84 @@ tower, steeple, spire; stupa, pagoda
 五重の塔
 ごじゅうのとう
 five-storied pagoda
+絵
+え
+picture, drawing, painting, sketch
+絵画
+かいが
+picture, painting
+絵の具
+えのぐ
+paint, coloring materials, colors
+略
+りゃく
+abbreviation, omission
+ほぼ
+略
+almost, roughly, approximately
+省略
+しょうりゃく
+omission, abbreviation, abridgment; ellipsis
+略す
+りゃくす
+to abbreviate, to omit; to take, to capture
+略歴
+りゃくれき
+brief personal record, short cv
+順
+じゅん
+order, turn
+順番
+じゅんばん
+turn (in line), order of things, sequential order
+順路
+じゅんろ
+(regular) route
+順調
+じゅんちょう
+favourable, doing well, OK, all right
+出版
+しゅっぱん
+publication; publishing
+版画
+はんが
+woodcut, woodblock print, art print; printmaking
+出版社
+しゅっぱんしゃ
+publisher, publishing company
+芸術
+げいじゅつ
+(fine) art, the arts
+芸能
+げいのう
+public entertainment, accomplishments, attainments
+工芸
+こうげい
+industrial arts, craft
+園芸
+えんげい
+horticulture, gardening
+複製
+ふくせい
+reproduction, duplication, reprinting
+複写
+ふくしゃ
+copy, duplicate; copying
+複雑な
+ふくざつな
+complex, complicated, mixed (feelings)
+複数
+ふくすう
+several, plural, plurality, multiple
+刊行物
+かんこうぶつ
+publication, periodical
+週刊
+しゅうかん
+published weekly
+朝刊
+ちょうかん
+morning newspaper
+月刊
+げっかん
+monthly publication, monthly issue
