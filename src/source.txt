@@ -6310,3 +6310,81 @@ restitution, restoration, rehabilitation
 旧姓
 きゅうせい
 one's maiden/former name
+厚生労働省
+こうせいろうどうしょう
+Ministry of Health, Labour and Welfare
+厚い
+あつい
+thick, deep, heavy; kind, cordial, hospitable, warm, faithful; abundant
+厚かましい
+あつかましい
+impudent, shameless, brazen
+厚切り
+あつぎり
+thick slice
+厚手
+あつで
+thick (paper, fabric, etc)
+薄い
+うすい
+thin; pale, light; watery, dilute, sparse; weak (taste); slim (probs), small
+薄手
+うすで
+of thin make, light, thin, shallow, slight wound
+薄切り
+うすぎり
+thin slice, slicing thin
+薄める
+うすめる
+to dilute, to water down
+粒
+つぶ
+grain, bead, drop; counter for small round object (including grains, seeds, pills, drops)
+北極
+ほっきょく
+North Pole, Arctic
+積極的
+せっきょくてき
+assertive, positive, active, proactive
+極
+ごく
+quite, very; 10^48, quindecillion; field
+南極
+なんきょく
+South Pole, Antarctic
+消極的
+しょうきょくてき
+negative, half-hearted, passive, unmotivated, pessimistic
+改革
+かいかく
+reform, reformation, innovation
+靴
+くつ
+shoes, boots, footwear, footgear
+革
+かわ
+leather
+革命
+かくめい
+revolution; 58th year of a sexagenary cycle
+革製
+かわせい
+leather, leather-bound, leathern
+若い
+わかい
+young, youthful; immature, green; low (number), small
+苦痛
+くつう
+pain, agony, bitterness
+苦しい
+くるしい
+painful, difficult, agonizing; needy, tight (budget); forced (smile, joke), lame (excuse); awkward, painful
+聞き苦しい
+ききぐるしい
+difficult to hear, unpleasant to hear
+苦い
+にがい
+bitter
+苦しむ
+くるしむ
+to suffer, to groan, to be worried
