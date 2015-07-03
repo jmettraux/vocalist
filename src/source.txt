@@ -6682,3 +6682,57 @@ horse riding; riding horse, saddle horse
 馬
 うま
 horse
+貝
+かい
+shell, shellfish
+貝がら
+かいがら
+shell, seashell
+酒屋
+さかや
+liquor store, wine shop, bottle shop; saked dealer, liquor-store owner, brewer
+酒
+さけ
+alcohol, sake; alcoholic beverage
+居酒屋
+いざかや
+bar, pub, tavern; izakaya
+蒸発
+じょうはつ
+evaporation; disappearance (of people intentionally concealing their whereabouts), unexplained disappearance
+蒸す
+むす
+to steam (food, towel); to be hot and humid, to be sultry
+水蒸気
+すいじょうき
+water vapour, steam
+蒸し暑い
+むしあつい
+humid, sultry
+干す
+ほす
+to air, to dry, to desiccate; to drain (off); to drink up; to deprive of a role (usually passive)
+干物
+ひもの
+dried fish; stockfish
+竹
+たけ
+bamboo; middle (of a three-tier ranking system)
+竹の子
+たけのこ
+bamboo shoot; inexperienced doctor, quack
+卵黄
+らんおう
+egg yolk
+卵
+たまご
+eggs, egg, spawn, roe; hen egg; (expert) in the making
+大根
+だいこん
+daikon; ham actor
+根
+ね
+root; source, origin, cause, basis; one's true nature
+屋根
+やね
+roof
