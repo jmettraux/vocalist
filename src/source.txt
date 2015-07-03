@@ -6400,3 +6400,75 @@ ancestor
 偶数
 ぐうすう
 even number
+求人
+きゅうじん
+offer of job, "help wanted"; recruitment
+請求書
+せいきゅうしょ
+bill, job invoice
+要求
+ようきゅう
+demand, firm request, requisition, requirement
+求める
+もとめる
+to want, to wish for; to request, to demand; to seek, to search for; to purchase/buy (polite)
+簡単
+かんたｎ
+simple, easy, uncomplicated; brief, quick, light
+単語
+たんご
+word, vocabulary
+単に
+たんに
+simply, merely, only, solely
+単位
+たんい
+unit, denomination; credit (school)
+単なる
+たんなる
+mere, simple, sheer
+許可
+きょか
+permission, approval, authorization, license
+許す
+ゆるす
+to permit, to allow, to approve, to tolerate; to exempt (fine), to excuse (from), to forgive; to confide in; to yield
+免許
+めんきょ
+license, permit, certificate
+給料
+きゅうりょう
+salary, wages
+供給
+きょうきゅう
+supply, provision
+週給
+しゅうきゅう
+weekly pay/wage/salary
+支給
+しきゅう
+provision, supply, payment, allowance, grant
+月給
+げっきゅう
+monthly salary/wage/pay
+日給
+にっきゅう
+daily wages
+給与
+きゅうよ
+pay, salary, wages, allowance, grant, supply
+与える
+あたえる
+to give (to so of lower status), to bestow, to grant, to confer, to award; to pass (var to func, comp)
+応募
+おうぼ
+application, subscription, entry (competition, raffle, etc), enlistment
+一応
+いちおう
+more or less, though not quite satisfactorily, roughly, pretty much; tentatively; just in case; once
+応じる
+おうじる
+to respond, to satisfy, to accept, to comply with, to apply for
+応用
+おうよう
+application, put to practical use
