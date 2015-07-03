@@ -6613,3 +6613,72 @@ every night
 晩御飯
 ばんごはん
 dinner, evening meal
+劇
+げき
+drama, play; powerful drug (abbr)
+劇場
+げきじょう
+theater, playhouse
+劇団
+げきだん
+troupe, theatrical company
+演劇
+えんげき
+drama, theater, play
+公園
+こうえん
+(public) park
+公共
+こうきょう
+public, community, public service, society, communal
+公演
+こうえん
+public performance
+公務員
+こうむいん
+government worker, public servant, civil servant; civil service
+日本舞踊
+にほんぶよう
+traditional japanese dance; Buyou
+踊る
+おどる
+to dance
+踊り
+おどり
+dance
+種類
+しゅるい
+variety, kind, type, category; counter for different sorts of things
+雑種
+ざっしゅ
+hybrid, crossbreed, mongrel
+人種
+じんしゅ
+race (of people); type of people
+種
+たね
+seed, pip, kind, variety, quality, tone; material, matter, subject, theme, leaven (bread); cause source, trick, secret, inside story
+匹敵する
+ひってきする
+comparing with, match, rival, equal
+三匹の子豚
+さんぴきのこぶた
+the three little pigs
+渡米
+とべい
+going to America/USA
+渡す
+わたす
+to ferry across (river), to carray across, to traverse; to lay across, to build across; to hand over, to pass, to give, to transfer
+渡る
+わたる
+to cross over, to go across; to extend, to cover, to range, to span
+渡辺さん
+わたなべさん
+Mr. Watanabe
+乗馬
+じょうば
+horse riding; riding horse, saddle horse
+馬
+うま
+horse
