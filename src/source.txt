@@ -6736,3 +6736,75 @@ root; source, origin, cause, basis; one's true nature
 屋根
 やね
 roof
+材料
+ざいりょう
+ingredients, material
+材質
+ざいしつ
+material; material properties, quality of material
+原材料
+げんざいりょう
+raw materials
+教材
+きょうざい
+teaching materials
+植物
+しょくぶつ
+plant, vegetation
+植木
+うえき
+garden shrubs, trees, potted plant
+植える
+うえる
+to plant, to grow, to raise; to insert, to transplant, to implant; to inoculate; to instill, to inculcate
+田植え
+たうえ
+rice planting
+砂糖
+さとう
+sugar
+砂
+すな
+sand, grit
+砂漠
+さばく
+desert
+牛乳
+ぎゅうにゅう
+cow milk
+乳児
+にゅうじ
+infant (below 1yo), suckling baby
+乳製品
+にゅうせいひん
+dairy products
+乳
+ちち
+milk; breast
+含む
+ふくむ
+to contain, to comprise, to have, to hold, to include, to embrace; to hold in the mouth; to bear in mind, to hold (grudge), to harbour; to express (emotion), to imply
+含める
+ふくめる
+to include (in a group or a scope); to instruct, to make one understand; to include (nuance), to put in (implication); to put in (so's mouth); to permeate with flavour
+炭水化物
+たんすいかぶつ
+carbohydrate
+炭
+すみ
+charcoal
+石炭
+せきたん
+coal
+脂肪
+しぼう
+fat, grease, blubber
+油脂
+ゆし
+fat, fats and oils
+脂質
+ししつ
+lipid, fats, adipose
+脂
+あぶら
+fat, tallow, lard, grease
