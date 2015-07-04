@@ -6808,3 +6808,69 @@ lipid, fats, adipose
 脂
 あぶら
 fat, tallow, lard, grease
+封筒
+ふうとう
+envelope
+筒
+つつ
+pipe, tube, cylinder; gun barrel; gun
+水筒
+すいとう
+canteen, flask, water bottle, thermos
+卒業
+そつぎょう
+graduation, completion (of a course); outgrowing something, moving on
+卒業証明書
+そつぎょうしょうめいしょ
+graduation certificate, diploma
+成績
+せいせき
+results, record, grades, marks
+実績
+じっせき
+achievements, actual results, accomplishments, track record
+業績
+ぎょうせき
+achievement, performance, results, work, contribution
+論文
+ろんぶん
+thesis, essay, treatise, paper, article
+結論
+けつろん
+conclusion
+議論
+ぎろん
+argument, discussion, dispute, controversy
+論じる
+ろんじる
+to argue, to discuss, to debate
+志望
+しぼう
+wish, desire, ambition
+意志
+いし
+will, volition, intention, intent, determination
+記述
+きじゅつ
+description, descriptor
+前述
+ぜんじゅつ
+aforementioned, above-mentioned
+口述
+こうじゅつ
+dictation, verbal statement
+述べる
+のべる
+to state, to express, to mention
+結構
+けっこう
+splendid, nice, wonderful; sufficient, fine, no thank you; well enough, ok, tolerable; reasonably, fairly, tolerably
+構内
+こうない
+premises, grounds, campous, in-house
+構成
+こうせい
+organisation, configuration, composition
+構う
+かまう
+to mind, to care about, to be concerned about; to care for, to look after; to prepare for; to meddle in; to tease
