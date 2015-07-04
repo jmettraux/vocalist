@@ -7369,3 +7369,57 @@ agricultural produce; crop
 農家
 のうか
 farmer, farm family
+命じる
+めいじる
+to order, to command, to appoint
+生命
+せいめい
+life, existence
+一生懸命
+いっしょうけんめい
+very hard, with utmost effort, with all one's might, for dear life
+命
+いのち
+life, life force; lifetime, lifespan; foundation, core, most important thing;
+命令
+めいれい
+order, command, decree, directive; (software) instruction, statement
+被害
+ひがい
+(suffering) damage, injury, harm
+被害者
+ひがいしゃ
+victim, injured party, sufferer
+被告
+ひこく
+defendant, the accused
+害
+がい
+injury, harm, evil influence, damage
+公害
+こうがい
+pollution, public nuisance, contamination
+水害
+すいがい
+water damage, flood disaster
+殺害
+さつがい
+killing, murder
+権利
+けんり
+right, privilege
+人権
+じんけん
+human rights, civil liberties
+億
+おく
+10^8, hundred million
+星座
+せいざ
+constellation, star sign, zodiac sign
+星
+ほし
+star; offender, perpetrator (police slang)
+星印
+ほしじるし
+star, asterisk
