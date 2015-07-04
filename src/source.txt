@@ -7423,3 +7423,75 @@ star; offender, perpetrator (police slang)
 星印
 ほしじるし
 star, asterisk
+武器
+ぶき
+weapon, arms, ordnance; weapon, asset
+武士
+ぶし
+warrior, samurai
+武力
+ぶりょく
+armed might, military power, the sword, force
+巨大
+きょだい
+huge, gigantic, enormous
+巨額
+きょがく
+great sum
+競争
+きょうそう
+competition, contest
+競う
+きそう
+to compete with; to emulate
+競馬
+けいば
+horse racing
+失敗
+しっぱい
+failure, mistake, blunder
+敗れる
+やぶれる
+to be defeated, to be beaten, to be unsuccessful, to lose
+連敗
+れんぱい
+consecutive defeats, series of defeats
+逆
+ぎゃく
+reverse, opposite; converse (of a hypothesis, etc)
+逆さ
+さかさ
+reverse, inversion, upside down
+逆転
+ぎゃくてん
+(sudden) change, reversal, turn-around; coming from behind (baseball)
+逆らう
+さからう
+to go against, to oppose, to disobey, to defy
+優勝
+ゆうしょう
+overall victory, championship
+勝敗
+しょうはい
+victory or defeat; issue (of battle); outcome
+負ける
+まける
+to lose, to be defeated; to succumb, to give in, to yield; to be inferior to
+勝負
+しょうぶ
+victory or defeat, match, contest, game, bout
+勝つ
+かつ
+to win, to gain victory
+投手
+とうしゅ
+pitcher
+投資
+とうし
+investment
+投書
+とうしょ
+letter to the editor, letter from a reader, contribution
+投げる
+なげる
+to throw, to cast away; to face defeat, to give up
