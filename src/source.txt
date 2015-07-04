@@ -6874,3 +6874,63 @@ organisation, configuration, composition
 構う
 かまう
 to mind, to care about, to be concerned about; to care for, to look after; to prepare for; to meddle in; to tease
+遅刻
+ちこく
+lateness, late coming
+遅い
+おそい
+slow; late; too late
+遅れる
+おくれる
+to be late, to be delayed, to fall behind schedule, to be overdue
+仮名
+かな
+kana, japanese syllabary
+仮定
+かてい
+assumption, supposition, hypothesis
+振り仮名
+ふりがな
+furigana
+仮
+かり
+temporary, provisional, interim; fictitious, assumed (name), alias; hypothetical, theoretical
+机
+つくえ
+desk
+二冊
+にさつ
+two books
+冊子
+さっし
+book, booklet, story book, pamphlet, notebook
+採点
+さいてん
+marking, grading, scoring
+採集
+さいしゅう
+collecting, gathering
+採用
+さいよう
+use, adoption, acceptance; appointment, employment, engagement, recruitment
+採る
+とる
+to adopt (measure, proposal); to pick (fruit), to catch (insects), to take (sample); to assume (attitude); to hire, to engage
+濃度
+のうど
+concentration, thickness, density; cardinality
+濃い
+こい
+deep (color), dark; strong (flavor, smell); thick, dense; strong (possibility)
+鉛筆
+えんぴつ
+pencil
+筆記
+ひっき
+taking notes, copying; writing
+筆者
+ひっしゃ
+writer (ofen in self-reference); author
+筆
+ふで
+writing brush
