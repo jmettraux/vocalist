@@ -7594,3 +7594,66 @@ friendship
 善悪
 ぜんあく
 good and evil
+法律
+ほうりつ
+law; statute
+規律
+きりつ
+order, observance, discipline; rules, law, regulations
+情勢
+じょうせい
+state of things, state of affairs, condition, situation, circumstances
+姿勢
+しせい
+attitude, posture, stance, approach, carriage (of the body)
+大勢
+おおぜい
+many, crowd, great number of people
+勢い
+いきおい
+force, vigour, energy, spirit, life; influence, authority, power, might; impetus, momentum, course of events; naturally, necessarily
+恐怖
+きょうふ
+fear, dread, dismay, terror, horror, scare, panic
+怖い
+こわい
+scary, frightening, eerie, dreadful; (I'm) afraid
+財布
+さいふ
+purse, handbag, wallet
+荒い
+あらい
+rough, rude, wild
+荒らす
+あらす
+to lay waste, to devastate, to damage; to invade, to break into; to troll (web), to spam
+荒れる
+あれる
+to be stormy/rough; to be ruined, to fall into ruin; to be in a bad temper, to lose one's temper
+耕地
+こうち
+arable land
+耕す
+たがやす
+to till, to plow, to plough, to cultivate
+休耕地
+きゅうこうち
+land out of cultivation
+風景
+ふうけい
+scenery, scene, landscape, view, sight; scene (of a crime)
+景気
+けいき
+condition, state, business (condition)
+光景
+こうけい
+scene, spectacle, sight, view
+景色
+けしき
+scenery, scene, landscape
+掘る
+ほる
+to dig, to excavate, to hollow; to delve into; to dig up (vegetables)
+掘り返す
+ほりかえす
+to dig up, to turn up, to tear up
