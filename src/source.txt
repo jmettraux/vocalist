@@ -6934,3 +6934,123 @@ writer (ofen in self-reference); author
 筆
 ふで
 writing brush
+航空
+こうくう
+aviation, flying
+欠航
+けっこう
+flight cancellation
+運航
+うんこう
+operating (ships, aircrafts)
+陸
+りく
+land, shore
+大陸
+たいりく
+continent
+着陸
+ちゃくりく
+landing, alighting, touch down
+陸上
+りくじょう
+land, ground, shore; track-and-field events
+損
+そん
+loss, disadvantage
+損害
+そんがい
+damage, injury, loss
+損傷
+そんしょう
+damage, injury
+損得
+そんとく
+loss and gain, advantage and disadvantage
+気候
+きこう
+climate
+天候
+てんこう
+weather
+風船
+ふうせん
+balloon (esp toy)
+船
+ふね
+ship, boat, vessel; tank, tub, vat, trough; counter for boat-shaped things
+造船
+ぞうせん
+shipbuilding
+船便
+ふなびん
+surface mail, sea mail; ferry service, steamer service
+丸
+まる
+circle; entirety, whole, full, complete; money, dough
+丸い
+まるい
+round, circular, spherical; harmonious, calm
+混雑
+こんざつ
+congestion, crush, crowding, jam; confusion, disorder
+かき混ぜる
+かきまぜる
+to mix, to stir, to scramble, to churn
+混じる
+まじる
+to be mixed, to be blended with, to associate with, to mingle with, to interest, to join
+混ざる
+まざる
+to be mixed, to be blended with, to associate with, to mingle with, to interest, to join
+予想
+よそう
+expectation, anticipation, prediction, forecast, conjecture
+想像
+そうぞう
+imagination, guess
+感想
+かんそう
+impressions, thoughts
+理想
+りそう
+ideal, ideals
+事故
+じこ
+accident, incident, trouble; circumstances, reasons
+故郷
+こきょう
+home town, birthplace, native place; ruins, historic remains
+故障
+こしょう
+breakdown, failure, fault, accident, out of order; damage, hurt; objection, protest
+混乱
+こんらん
+disorder, chaos, confusion, mayhem
+乱れる
+みだれる
+to be disordered; to be discomposed, disturbed; to lapse into chaos
+乱暴な
+らんぼうな
+rude, violent, lawless, unreasonable, reckless
+運河
+うんが
+canal, waterway
+河
+かわ
+river, stream
+河川
+かせん
+river, rivers
+輸出
+ゆしゅつ
+export; efferent
+輸血
+ゆけつ
+blood transfusion
+輸入
+ゆにゅう
+importation, import, introduction; afferent
+輸送
+ゆそう
+transport, transportation
