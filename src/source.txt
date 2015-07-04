@@ -7753,3 +7753,54 @@ alarm clock
 帽子
 ぼうし
 hat, cap, headgear
+環境
+かんきょう
+environment, circumstance
+環状線
+かんじょうせん
+loop line, transportation belt line
+境界
+きょうかい
+boundary
+境
+さかい
+border, boundary; turning point, watershed
+国境
+こっきょう
+national border, provincial border
+県境
+けんざかい
+prefectural border, prefectural boundary
+削減
+さくげん
+cut, reduction, curtailment
+加減
+かげん
+degree, extent, just right amount of; condition, state of health; adjustment, moderation; addition and substraction
+減る
+へる
+to decrease (size or number), to diminish, to abate
+増減
+ぞうげん
+increase and decrease, fluctuation
+減らす
+へらす
+to abate, to decrease, to diminish, to shorten
+努力
+どりょく
+great effort, exertion, endeavour, effort
+努める
+つとめる
+to endeavour, to try, to strive, to make an effort, to exert oneself, to be committed
+社会保険庁
+しゃかいほけんちょう
+social insurance agency
+県庁
+けんちょう
+prefectural office
+長官
+ちょうかん
+secretary (gov), director, chief
+警官
+けいかん
+policeman
