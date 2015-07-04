@@ -7135,3 +7135,54 @@ cloud
 雨雲
 あまぐも
 rain cloud
+漁船
+ぎょせん
+fishing boat, fishing vessel
+漁師
+りょうし
+fisherman
+海底
+かいてい
+bottom of the ocean; undersea, submarine; seabed
+海の底
+うみのそこ
+sea bottom
+鉱山
+こうざん
+mine (ore)
+炭鉱
+たんこう
+coal mine, coal pit; coal mining
+彼岸
+ひがん
+equinoctial week (buddhism)
+彼
+かれ
+he, him; his; boyfriend
+彼女
+かのじょ
+she, her; her; girlfriend, sweetheart
+水滴
+すいてき
+drop of water; vessel for replenishing inkstone water
+偉大
+いだい
+greatness
+偉い
+えらい
+great, excellent, admirable, remarkable; awful, terrible (kana)
+規則
+きそく
+rules, regulations, conventions
+測定
+そくてい
+measurement
+測る
+はかる
+to measure, to weigh, to survey, to time (sound, gauge, estimate); to conjecture, to infer, to surmise
+授業
+じゅぎょう
+lesson, class work, teaching, instruction
+零下
+れいか
+below zero, sub-zero
