@@ -7186,3 +7186,75 @@ lesson, class work, teaching, instruction
 零下
 れいか
 below zero, sub-zero
+本州
+ほんしゅう
+Honshuu
+九州
+きゅうしゅう
+Kyushuu
+電波
+でんぱ
+electromagnetic wave, radio wave; nonsense
+波
+なみ
+wave
+津波
+つなみ
+tsunami, tidal wave
+強盗
+ごうとう
+robber, mugger; robbery, burglary
+盗む
+ぬすむ
+to steal
+盗難
+とうなん
+theft, robbery
+逃走
+とうそう
+flight, desertion, escape
+逃がす
+にがす
+to miss, to lose, to give away, to let go, to set free, to let get away
+逃げる
+にげる
+to escape, to run away
+逃す
+のがす
+to miss, to lose, to give away, to let go, to set free, to let get away
+疑問
+ぎもん
+question, problem, doubt, guess
+疑う
+うたがう
+to doubt, to distrust, to be suspicious of, to suspect
+容疑
+ようぎ
+suspicion, charge
+容疑者
+ようぎしゃ
+suspect (person)
+逮捕
+たいほ
+arrest, apprehension, capture
+捕まる
+つかまる
+to be caught/arrested; to hold on to, to grasp; to fin (proof), to get (taxi)
+捕る
+とる
+to take, to catch, to capture (eg fish)
+捕まえる
+つかまえる
+to catch, to arrest, to seize
+捕らえる
+とらえる
+to seize, to capture, to arrest; to grasp, to perceive, to treat (as)
+絶対に
+ぜったいに
+absolutely, unconditionally, never (with neg verb)
+絶つ
+たつ
+to sever, to cut off, to suppress, to abstain (from)
+絶えず
+たえず
+constantly, always, continually, steadily
